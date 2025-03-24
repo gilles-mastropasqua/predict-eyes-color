@@ -1,0 +1,396 @@
+{
+  "ui": {
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "topMenu": {
+    "item1": "Eye color calculator",
+    "item2": "How it works",
+    "item3": "Explore"
+  },
+  "homePage": {
+    "meta": {
+      "metaTitle": "Eyes Color Calculator: Predict Your Baby's Eye Color",
+      "metaDescription": "Calculate your baby's eye color with a precise method using family traits and unique shades like gray, amber, and hazel."
+    },
+    "content": {
+      "h1": "Baby eye color calculator",
+      "moreInformations": "More informations about your future baby? So try:",
+      "babyGenderPredictorApp": "Chinese gender predictor",
+      "babySkinColorCalculatorApp": "Baby skin color predictor",
+      "babyHairColorCalculatorApp": "Hair color calculator"
+    },
+    "calculator": {
+      "calculatorName": "Eye color calculator",
+      "calculatorSelect": "Click on each character to select the color of his eyes:",
+      "maternalGrandMother": "Maternal<br></br>Grand Mother",
+      "maternalGrandFather": "Maternal<br></br>Grand Father",
+      "paternalGrandMother": "Paternal<br></br>Grand Mother",
+      "paternalGrandFather": "Paternal<br></br>Grand Father",
+      "mother": "Mother",
+      "father": "Father",
+      "MGM": "Maternal Grand Mother",
+      "MGF": "Maternal Grand Father",
+      "PGM": "Paternal Grand Mother",
+      "PGF": "Paternal Grand Father",
+      "MO": "Mother",
+      "FA": "Father",
+      "baby": "Baby",
+      "babyAlt": "Baby with eyes color",
+      "eyesColor": "Eyes color:",
+      "selectEyesColor": "Eyes color:",
+      "BLUE": "Blue",
+      "GREEN": "Green",
+      "BROWN": "Brown",
+      "HAZEL": "Hazel",
+      "BLACK": "Black",
+      "GRAY": "Gray",
+      "AMBER": "Amber",
+      "UNDEFINED": "Unknown",
+      "babyEyesColorProbability": "Baby eyes color probability:"
+    },
+    "faq": {
+      "faqName": "How the baby eye color calculator works",
+      "explanation": {
+        "title": "Explanation of the Eye Color Prediction Method",
+        "intro": "A Revolutionary Approach to Predicting Eye Color",
+        "details": "Our eye color prediction method introduces a significant advancement over traditional Mendelian genetics models. By incorporating an expanded dominance hierarchy and a broader range of eye colors, our method provides highly detailed and accurate predictions. In addition to classic eye colors like brown, green, and blue, this method accounts for nuanced shades such as hazel, gray, and amber.",
+        "genetics": "The prediction is rooted in a deep analysis of alleles inherited from both parents and grandparents. Each possible genotype is evaluated against a dominance hierarchy, ensuring that the most likely phenotype (eye color) is determined with precision. Unlike simple Mendelian models, which are often limited to just three colors, our method integrates modern genetic understanding to reflect the true complexity of human eye color inheritance.",
+        "features": {
+          "title": "Key Features of This Method:",
+          "palette": "Expanded Color Palette: Beyond brown, green, and blue, the model supports hazel, gray, and amber shades, as well as combinations resulting in subtle variations.",
+          "hierarchy": "Advanced Dominance Hierarchy: The model ranks alleles based on dominance, ensuring accurate phenotype mapping.",
+          "grandparents": "Grandparental Influence: By considering the eye colors of grandparents, we enhance the predictive accuracy by accounting for recessive alleles.",
+          "probabilities": "Probabilistic Outcomes: Instead of binary outcomes, the method provides percentage probabilities for each color, offering a comprehensive prediction profile."
+        },
+        "conclusion": "With this innovative approach, users gain a deeper understanding of how genetic traits interact to shape eye color, embracing both common and rare outcomes."
+      },
+      "questions": {
+        "title": "FAQ: Eye Color Prediction",
+        "q1": {
+          "question": "How does this method differ from traditional genetics models?",
+          "answer": "Traditional Mendelian genetics usually predict eye color using simple dominant-recessive inheritance for three colors: brown, green, and blue. Our method expands on this by incorporating additional colors (hazel, gray, amber) and considering complex dominance hierarchies."
+        },
+        "q2": {
+          "question": "What are the new eye colors introduced in this method?",
+          "answer": "In addition to the classic colors (brown, green, blue), our model supports hazel, gray, and amber eye colors."
+        },
+        "q3": {
+          "question": "How does the model use grandparents' eye colors?",
+          "answer": "Grandparents' eye colors help determine possible genotypes for parents. These are then used to calculate the probabilities of different child genotypes, ensuring more accurate predictions."
+        },
+        "q4": {
+          "question": "Can this method predict unique or rare eye colors?",
+          "answer": "Yes, the inclusion of nuanced colors like amber and gray allows for predictions that traditional methods often overlook. However, extremely rare genetic mutations or conditions may not be covered."
+        },
+        "q5": {
+          "question": "Is the prediction 100% accurate?",
+          "answer": "No, the prediction is based on probabilities and reflects the most likely outcomes. Genetics is inherently probabilistic, meaning that unexpected combinations can occur."
+        },
+        "q6": {
+          "question": "Why do the results include percentages?",
+          "answer": "The percentages represent the likelihood of each eye color based on the genetic combinations analyzed. This approach provides a more detailed and realistic prediction than binary yes/no outcomes."
+        },
+        "q7": {
+          "question": "Can this model predict heterochromia or mixed eye colors?",
+          "answer": "This method does not explicitly predict heterochromia (different colored eyes) or mixed colors but focuses on the most likely single phenotype. Future enhancements may include these possibilities."
+        },
+        "q8": {
+          "question": "Does this method take into account genetic mutations?",
+          "answer": "The current model focuses on typical inheritance patterns and does not account for rare mutations or environmental influences."
+        },
+        "q9": {
+          "question": "Can the model explain changes in eye color over time?",
+          "answer": "No, this model predicts genetic probabilities at birth. Environmental factors or changes over time (like darkening or lightening) are outside its scope."
+        },
+        "q10": {
+          "question": "Is this model backed by scientific research?",
+          "answer": "Yes, the model is grounded in modern genetic principles and reflects the latest understanding of allele dominance and eye color inheritance."
+        }
+      },
+      "howToUse": {
+        "title": "How to Use the Eye Color Calculator",
+        "instructionsTitle": "Step-by-Step Instructions",
+        "step1": {
+          "title": "Select the Parents' Eye Colors",
+          "description": "Start by choosing the eye colors of both parents from the dropdown menus. Options include common colors like brown, blue, green, and hazel, as well as less common shades like gray and amber. If you’re unsure about a parent’s eye color, select 'Unknown.'"
+        },
+        "step2": {
+          "title": "Select the Grandparents' Eye Colors",
+          "description": "Next, provide the eye colors of the grandparents. Each grandparent can have their eye color specified, or you can select 'Unknown' if the information isn’t available. The calculator adapts to incomplete data, so you can still receive an accurate prediction."
+        },
+        "step3": {
+          "title": "Instant Results",
+          "description": "As you select the eye colors, the calculator processes the data instantly. There’s no need to click a button—the results update automatically based on the information you provide."
+        },
+        "resultsTitle": "How to Understand the Results",
+        "probabilityChart": {
+          "title": "Probability Chart",
+          "description": "The results are displayed in a probability chart, showing the likelihood of each potential eye color for your baby."
+        },
+        "eyeColorCategories": {
+          "title": "Eye Color Categories",
+          "brown": "Brown: The most common eye color worldwide.",
+          "blue": "Blue: More prevalent in populations of European descent.",
+          "green": "Green: Less common globally but frequent in specific regions.",
+          "hazel": "Hazel: A blend of brown and green, common across many populations.",
+          "gray": "Gray: A rarer variation of blue tones.",
+          "amber": "Amber: A golden or coppery shade, relatively uncommon."
+        },
+        "interpretationTips": {
+          "title": "Interpretation Tips",
+          "high": "High Probabilities: A higher percentage suggests a stronger likelihood of that eye color but does not guarantee it.",
+          "low": "Low Probabilities: Even colors with small percentages are still possible due to the complexity of genetic inheritance."
+        },
+        "unknownEyeColors": {
+          "title": "Unknown Eye Colors",
+          "description": "If 'Unknown' is selected for any parent or grandparent, the calculator adjusts its prediction based on available data. While this may slightly reduce precision, it ensures you still receive an accurate estimate."
+        },
+        "disclaimer": {
+          "title": "Disclaimer",
+          "description": "The results are based on established genetic principles but are not definitive. Eye color inheritance is influenced by multiple genes, and outcomes can vary due to genetic complexity."
+        }
+      },
+      "eyeColorArticle": {
+        "title": "The Fascinating History, Science, and Cultural Significance of Eye Colors",
+        "intro": "Eye color has been a source of fascination and mystery for centuries. It serves as a distinct marker of identity, beauty, and even status in different cultures.",
+        "genetics": {
+          "title": "The Genetic Mechanism Behind Eye Colors",
+          "paragraph1": "Eye color is determined by the interaction of several genes, with the most influential being OCA2 and HERC2. These genes regulate the production and distribution of melanin in the iris, the pigment responsible for eye color.",
+          "brown": "Brown eyes: The most common globally, they result from a high concentration of melanin in the iris.",
+          "blue": "Blue eyes: These contain very little melanin. The scattering of light within the iris creates the blue appearance, a phenomenon known as Rayleigh scattering.",
+          "green": "Green eyes: A unique mix of moderate melanin and the presence of a yellowish pigment called lipochrome gives rise to green eyes.",
+          "gray": "Gray eyes: Even rarer than green, gray eyes occur due to specific structural variations in the stroma, a part of the iris.",
+          "mutation": "Interestingly, eye color diversity can be traced back to a single mutation in the HERC2 gene, which occurred roughly 6,000 to 10,000 years ago in the region around the Black Sea.",
+          "mutationLink": "Read more about the HERC2 mutation"
+        },
+        "evolution": {
+          "title": "Why Did Eye Colors Evolve?",
+          "brown": "Brown eyes: High melanin levels in brown eyes protect against harmful UV rays. This is particularly advantageous in sunny regions like Africa, Asia, and the Middle East.",
+          "light": "Light-colored eyes (blue, green, gray): These are more common in Northern Europe and regions with lower sunlight. They may have evolved not for practical reasons but due to sexual selection, where unique traits became attractive over generations.",
+          "conclusion": "Today, these evolutionary advantages are less relevant in our modern world, but the genetic history of eye colors continues to shape our understanding of human diversity."
+        },
+        "culture": {
+          "title": "The Cultural Significance of Eye Colors",
+          "intro": "Eye color has always carried symbolic and cultural weight across societies. Its meanings and interpretations vary widely depending on time, geography, and tradition.",
+          "europe": "In Europe: Light eyes, particularly blue and green, were often seen as a marker of purity, nobility, and even divinity in medieval times.",
+          "asiaAfrica": "In Asia and Africa: Brown eyes, being dominant, symbolize stability, reliability, and a strong connection to the natural world.",
+          "superstitions": "Superstitions: Green eyes have been linked to mysticism, witchcraft, or supernatural abilities in various cultures. For instance, in Irish folklore, green eyes were sometimes associated with fairies or enchantresses.",
+          "popCulture": "Modern Popular Culture: Media and entertainment have elevated rare eye colors like violet or amber as traits of uniqueness, frequently seen in fantasy characters or protagonists with extraordinary abilities.",
+          "source": "The World's Population By Eye Color"
+        },
+        "calculator": {
+          "title": "Why Do Parents Want to Predict Their Baby’s Eye Color?",
+          "intro": "In recent years, the rise of tools like the eyes color calculator has made it easier for parents to estimate their baby’s potential eye color. These tools use advanced algorithms to analyze genetic contributions from parents and even grandparents, providing probabilities for each possible eye color.",
+          "scientificCuriosity": "This curiosity stems from multiple factors—scientific, emotional, and even aesthetic. For some, understanding the genetic mechanisms behind traits like eye color is a fascinating way to connect with their family’s unique genetic story. Eye color calculators allow parents to visualize how traits may be passed down, bringing science into the realm of everyday life.",
+          "emotionalBond": "Parents also find joy in imagining what their child will look like, and eye color is often one of the most anticipated features. Will the baby inherit their father’s striking blue eyes, their mother’s deep brown gaze, or perhaps the rare green eyes of a grandparent? The answers, though probabilistic, provide a sense of wonder and anticipation during the journey to parenthood.",
+          "culturalSymbolism": "In some cultures, eye color is linked to identity and symbolic meanings. Parents may wish to know if their baby will carry on a rare family trait, such as green or gray eyes, which could be seen as a mark of uniqueness. Eye color calculators offer insight into these possibilities, turning genetic probabilities into meaningful connections.",
+          "interactiveLearning": "Beyond the emotional connection, these tools provide an opportunity to engage in science in an accessible and interactive way. Genetics, often perceived as a complex field, becomes approachable through calculators that break down probabilities into visually engaging and easy-to-understand results. This educational aspect enriches the experience for parents, blending curiosity with knowledge.",
+          "preparation": "Finally, eye color calculators tap into the excitement of preparing for a new family member. Knowing the potential for specific features helps parents feel closer to their child even before birth, fostering a sense of attachment and connection. It’s a small but meaningful way to bridge the waiting period with science, imagination, and emotion."
+        },
+        "personality": {
+          "title": "Do Eye Colors Affect Personality or Behavior?",
+          "blue": "Blue eyes: Often associated with calmness, intellect, or introversion.",
+          "brown": "Brown eyes: Symbolize warmth, reliability, and resilience.",
+          "green": "Green eyes: Linked to creativity, unpredictability, or charm.",
+          "gray": "Gray eyes: Perceived as mysterious or introspective."
+        },
+        "distribution": {
+          "title": "Global Distribution of Eye Colors",
+          "description": "Eye colors are distributed unevenly across the world, reflecting genetic diversity and historical migration patterns. While brown eyes dominate globally, other colors like blue, green, gray, and amber are concentrated in specific regions or populations.",
+          "source": "Discover the global distribution of eye colors",
+          "brown": "Brown eyes: Representing over 70% of the global population, brown eyes are by far the most common. This color is predominantly found in regions like Africa, Asia, the Middle East, and the Americas, where the genetic trait for higher melanin levels has been naturally selected.",
+          "blue": "Blue eyes: Found in roughly 8-10% of the population, blue eyes are most prevalent in Europe, especially in countries like Estonia, Finland, and Sweden, where more than 80% of the population has blue eyes. The trait likely spread due to genetic drift and sexual selection.",
+          "green": "Green eyes: One of the rarest common colors, green eyes are present in only about 2% of the population, primarily in Northern and Central Europe. Green eyes are considered unique and are often surrounded by cultural mystique.",
+          "gray": "Gray eyes: Even rarer than green, gray eyes are primarily found in Eastern Europe and Russia. They are believed to result from a unique combination of low melanin and the way light scatters in the iris.",
+          "amber": "Amber eyes: A striking and uncommon color, amber eyes have a golden or coppery hue due to the presence of lipochrome pigment. This color is most often seen in Asia, South America, and parts of the Middle East.",
+          "observations": "These patterns highlight the fascinating interplay of genetics, evolution, and historical migrations, making each eye color a unique marker of human diversity."
+        },
+        "conclusion": "Eye color is more than a physical trait; it’s a narrative of evolution, culture, and personal identity. From its genetic origins to its cultural symbolism, the journey of eye colors highlights the incredible diversity of human life."
+      }
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "legalNotice": "Legal Notice",
+    "copyright": "© {year} Predict'Eyes. All rights reserved.",
+    "developedBy": "Developed with ❤\uFE0F by {name}"
+  },
+  "404": {
+    "meta": {
+      "metaTitle": "Page not found - Predict'Eyes",
+      "metaDescription": "Oops! The page you are looking for does not exist. Explore Predict'Eyes to discover our baby eye color calculator."
+    },
+    "content": {
+      "missing": "Something's missing.",
+      "sorry": "Sorry, we can't find that page.",
+      "backToHomepage": "Back to Homepage"
+    }
+  },
+  "share": {
+    "title": "Your results are fascinating, share them with your family and friends!",
+    "sharedTitle": "We tried this test to predict our baby’s eye color, and the results are fascinating! It’s highly accurate, using the eye colors of both parents and grandparents. Take the test and share your results with friends and family!",
+    "sharedHashtags": "#eyesColorCalculator"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "introduction": {
+      "title": "1. Introduction",
+      "text": "Welcome to the Predict Eyes website (the 'Site'), operated by 3w Creation, a company registered in France. We value your privacy and are committed to protecting your personal data. This privacy policy explains in detail how we handle and protect the information collected during your interaction with our Site. By using this Site, you agree to the practices described in this policy. Predict Eyes strives to deliver an informative and user-friendly experience, focusing on tools like eye color prediction charts and hereditary pattern analyses."
+    },
+    "operatorInformation": {
+      "title": "2. Operator Information",
+      "companyName": "Company Name",
+      "text": "The Predict Eyes website is operated by 3w Creation, a company based in France that specializes in creating accessible and innovative online tools. Our mission is to combine advanced algorithms with intuitive design to provide accurate, user-centric solutions.",
+      "website": "Website",
+      "responsible": "Responsible Person",
+      "contactEmail": "Contact Email",
+      "github": "GitHub Repository",
+      "githubLink": "https://github.com/gilles-mastropasqua"
+    },
+    "dataCollected": {
+      "title": "3. Data Collected",
+      "text": "We do not collect or store any personal data from users of our Site. All features, including tools for predicting eye color and visualizing genetic charts, are designed to process interactions anonymously. No identifiable user data is stored on our servers, ensuring your privacy is fully protected while you engage with our services."
+    },
+    "umami": {
+      "title": "4. Use of Umami for Visit Tracking",
+      "text": "We utilize Umami, a lightweight and privacy-focused analytics tool, to monitor anonymous user activity on our Site. This enables us to understand user engagement and improve the overall experience without compromising your privacy.",
+      "compliance": "Umami adheres strictly to the General Data Protection Regulation (GDPR) standards to ensure full protection of user data.",
+      "ccpa": "Additionally, Umami aligns with American laws, including the California Consumer Privacy Act (CCPA), to guarantee transparency and minimize data collection.",
+      "functionality": "Unlike many analytics tools, Umami does not use cookies or store any personal data. It records anonymized metrics such as page views and session duration, helping us refine features like eye color calculators and hereditary charts.",
+      "learnMore": "Learn more about Umami by visiting their official website"
+    },
+    "cookies": {
+      "title": "5. Cookies",
+      "text": "Our Site does not employ cookies or any other tracking technologies that store information on your device. Features like eye color charts and prediction tools function seamlessly without the need for cookies, ensuring a secure and private browsing experience."
+    },
+    "usCompliance": {
+      "title": "6. Compliance with American Privacy Laws",
+      "text": "Predict Eyes complies with the GDPR and aligns with American regulations, including the California Consumer Privacy Act (CCPA) and the Children's Online Privacy Protection Act (COPPA). By avoiding the collection of personal data, including from children under 13, our Site ensures full adherence to these regulations while maintaining transparency and user trust."
+    },
+    "dataSharing": {
+      "title": "7. Data Sharing or Selling",
+      "text": "We do not share, sell, or rent any user data to third parties. All anonymized information, such as website analytics, remains solely for internal use to enhance features like our predictive models and hereditary visualization tools."
+    },
+    "rights": {
+      "title": "8. Your Rights",
+      "protection": "As a user, you have the right to data protection, even though no personal data is collected or processed.",
+      "inquiry": "You may inquire about how anonymous data is managed or request further details by contacting us at predicteyes@gmail.com."
+    },
+    "academic": {
+      "title": "9. Academic Context and Eye Color Insights",
+      "text": "Predict Eyes offers scientifically grounded tools for exploring hereditary patterns through the lens of eye color charts. By leveraging Mendelian genetics and probabilistic models, our platform calculates potential eye color outcomes based on parental genotypes. This system incorporates data from a wide range of genetic studies, ensuring that predictions are as accurate and reliable as possible. Eye color charts, integral to this process, provide a visual framework for understanding complex genetic interactions. Users can interact with dynamic diagrams, showcasing probabilities of offspring eye colors like blue, green, brown, and rare variations. These tools are particularly useful for educators, researchers, and individuals curious about the fascinating interplay of genes in determining phenotypic traits. By using advanced algorithms and visually engaging charts, Predict Eyes bridges the gap between scientific accuracy and user-friendly design."
+    },
+    "changes": {
+      "title": "10. Changes to This Policy",
+      "text": "We reserve the right to update this privacy policy at any time to reflect changes in our practices, technologies, or for legal compliance. Updates will be posted on this page, and we encourage you to review this policy periodically to stay informed about how we protect your data.",
+      "lastUpdated": "Last Updated: January 12, 2025"
+    },
+    "meta": {
+      "metaTitle": "Privacy Policy - Predict Eyes",
+      "metaDescription": "Discover how Predict Eyes respects your privacy and complies with GDPR and CCPA laws while offering tools for exploring eye color genetics and hereditary patterns."
+    }
+  },
+  "LegalNotice": {
+    "title": "Legal Notice",
+    "websiteOwner": {
+      "title": "1. Website Owner",
+      "text": "The website Predict Eyes is owned and operated by 3w Creation, to providing high-quality and educational online tools for genetic predictions.",
+      "name": "Name: Mastropasqua Gilles.",
+      "company": "Company:",
+      "address": "Address: 04170 Saint-Julien-du-Verdon, France.",
+      "email": "Email:"
+    },
+    "publicationDirector": {
+      "title": "2. Publication Director",
+      "name": "Name: Mastropasqua Gilles.",
+      "position": "Position: CEO, overseeing all aspects of platform development and user experience."
+    },
+    "hostingProvider": {
+      "title": "3. Hosting Provider",
+      "company": "Company: Vercel Inc.",
+      "address": "Address: 440 N Barranca Avenue #4133, Covina, CA 91723, United States.",
+      "website": "Website:",
+      "contact": "Contact:"
+    },
+    "dataProtection": {
+      "title": "4. Data Protection and GDPR Compliance",
+      "text": "At Predict Eyes, safeguarding your privacy is a core priority. We adhere to the highest standards outlined in the General Data Protection Regulation (GDPR) to ensure your data remains secure and confidential. No cookies are collected or personal data stored without your explicit consent, guaranteeing a transparent and respectful user experience.",
+      "contact": "If you have questions about data usage, or wish to exercise your rights to access, rectify, delete, or object to data processing, please contact us at predicteyes@gmail.com. Your concerns will be addressed promptly."
+    },
+    "intellectualProperty": {
+      "title": "5. Intellectual Property",
+      "text": "All content featured on Predict Eyes, including written materials, visual elements, graphics, and interactive tools, is fully protected under applicable intellectual property laws. Unauthorized reproduction, distribution, or modification of these assets is strictly prohibited and may result in legal action.",
+      "eyeColorChart": "The eye color chart provided by Predict Eyes serves as a unique educational tool, offering users insights into the genetic mechanisms behind eye color inheritance. This content is meticulously crafted to enhance understanding and encourage exploration of genetic patterns. Any commercial use or redistribution of this chart without prior consent from 3w Creation is forbidden."
+    },
+    "purpose": {
+      "title": "6. Purpose of the Website",
+      "text": "Predict Eyes is an educational and interactive platform designed to help users understand the fascinating science of genetics. Through tools such as the eye color prediction chart, users can explore the genetic probabilities influencing eye color inheritance, providing both a practical and engaging experience for families, educators, and enthusiasts."
+    },
+    "limitationOfLiability": {
+      "title": "7. Limitation of Liability",
+      "text": "3w Creation strives to ensure the accuracy and relevance of the information provided on this website. However, due to the complexity of genetics and inherent variability, we cannot guarantee that all content, including the predictions generated by the eye color chart, is completely accurate or exhaustive. These predictions are intended solely for informational and educational purposes and should not be considered as definitive genetic advice.",
+      "disclaimer": "3w Creation assumes no liability for any errors, omissions, or interpretations arising from the use of the website's content, including tools such as the eye color chart."
+    },
+    "userRights": {
+      "title": "8. User Rights and Responsibilities",
+      "text": "As a user of Predict Eyes, you agree to utilize the platform responsibly and in compliance with applicable laws. You are expressly prohibited from using any tools or resources, such as the eye color prediction chart, for malicious, unauthorized, or unethical purposes. Respecting these guidelines helps maintain the integrity and accessibility of the platform for everyone."
+    },
+    "governingLaw": {
+      "title": "9. Governing Law",
+      "text": "These legal notices are governed by French law, ensuring compliance with national and European regulations. Any disputes arising from the use of Predict Eyes will fall under the exclusive jurisdiction of the competent courts in France, safeguarding both user and platform rights."
+    },
+    "contactInformation": {
+      "title": "10. Contact Information",
+      "text": "For further questions, concerns, or feedback regarding the legal framework or services offered by Predict Eyes, please reach out to us. We are dedicated to addressing your inquiries in a timely and professional manner.",
+      "email": "Email: predicteyes@gmail.com - Your primary point of contact for any legal or service-related matters."
+    },
+    "accessibility": {
+      "title": "11. Accessibility and Updates",
+      "text": "We are committed to ensuring that Predict Eyes remains accessible to all users, including those with disabilities. Our website undergoes regular updates to enhance usability and incorporate new features while maintaining compliance with legal standards.",
+      "effectiveDate": "This document is effective as of January 14, 2025. Future changes will be clearly communicated on this page."
+    },
+    "meta": {
+      "metaTitle": "Legal Notice - Predict Eyes",
+      "metaDescription": "Discover the legal framework of Predict Eyes, including website ownership, GDPR compliance, intellectual property rights, and hosting information."
+    }
+  },
+  "Articles": {
+    "intro": {
+      "meta": {
+        "metaTitle": "Exploring the World of Eye Colors: Science, Genetics, and Evolution",
+        "metaDescription": "Discover the science behind eye colors, from genetics to evolution. Explore the origin of eye hues, the genes involved, and the fascinating stories they reveal about humanity."
+      },
+      "title": "Exploring the World of Eye Colors",
+      "altImage": "A beautiful representation of different eye colors",
+      "p1": "Welcome to a hub for discovering the fascinating science and stories behind the hues of our eyes. From the genetic blueprints that determine our eye color to the evolutionary journey of rare shades, this collection of articles dives deep into the mysteries of the human iris.",
+      "p2": "Eye colors have captivated human curiosity for centuries, serving as a unique window into our genetic heritage, cultural symbolism, and evolutionary history. From the deep browns of the African continent to the striking blues of Northern Europe, eye colors reflect the intricate interplay of genes, environment, and human migration. These articles delve into the fascinating world of eye colors, exploring the science, genetics, and cultural significance behind these captivating hues.",
+      "p3": "Learn how genetics shape the rich diversity of eye colors, uncover the origins of ancient traits, and explore what your eye color says about your ancestry and biology. Whether you're curious about the science or the history, you'll find captivating insights here."
+    },
+    "article1": {
+      "meta": {
+        "metaTitle": "The Origin of Eye Colors: How Genetics Shape Our Eyes",
+        "metaDescription": "Discover the fascinating genetic and evolutionary story behind eye color. From ancient humans with brown eyes to the emergence of blue and green hues, explore how genetics shape our unique eye colors.",
+        "image": "/template/articles/origin-of-eyes-color/how-genetics-shape-our-eyes.png",
+        "altImage": "Diversity of human eye colors (brown, blue, green, and amber) "
+      },
+      "title": "The Origin of Eye Colors: How Genetics Shape Our Eyes",
+      "intro": "Eye color is more than just an aesthetic trait, it’s a reflection of our genetic code and evolutionary history. In this article, uncover the science behind eye colors, learn how genetics determine their shades, and explore the fascinating story of how diverse hues like blue, green, and amber emerged over time. Dive into the origins and mysteries of what makes every pair of eyes unique.",
+      "texte": "## Why Are We Fascinated by Eye Color?\n\nEye color has long been a source of curiosity and fascination. Whether it’s the deep browns that evoke warmth and mystery, the piercing blues reminiscent of clear skies, or the rare greens that seem almost magical, our eye colors play a significant role in defining our identity. Beyond aesthetics, eye color carries a fascinating genetic story that spans thousands of years and reflects our evolutionary journey. \n\nIn this article, we dive deep into the genetics behind eye color, exploring the key genes involved, groundbreaking scientific discoveries, and the milestones in understanding how genetics shape the diversity we see today.\n\n---\n\n## The Genetics of Eye Color: Foundational Discoveries and Key Genes\n\n### Early Scientific Milestones\n\nThe study of eye color genetics began in the early 20th century when researchers first hypothesized that eye color was determined by a single gene with dominant and recessive traits. This simplistic model suggested that brown was dominant over blue, but later studies revealed a much more complex picture.\n\nOne significant breakthrough came in the 1990s when scientists identified the **OCA2** gene on chromosome 15 as a major determinant of eye color. Subsequent research uncovered the regulatory role of the **HERC2** gene in controlling OCA2 expression, explaining the emergence of blue eyes.\n\nIn the early 2000s, genome-wide association studies (GWAS) revolutionized the field by identifying multiple genetic loci associated with eye color, demonstrating that it is a polygenic trait influenced by numerous interacting genes.\n\n### The Primary Genes: OCA2 and HERC2\n\nTwo genes, **OCA2** and **HERC2**, play the most significant roles in determining eye color. \n\n- **OCA2 (Oculocutaneous Albinism II)**: This gene, located on chromosome 15, influences melanin production in the iris. Variants in OCA2 can lead to a range of colors from dark brown to light blue by regulating how much melanin is deposited in the iris. Interestingly, mutations in OCA2 can also contribute to albinism, where melanin production is significantly reduced.\n\n- **HERC2**: This gene acts as a regulatory switch for OCA2. A specific mutation in HERC2 reduces OCA2 activity, resulting in lower melanin levels and the development of blue eyes. Genetic studies have traced this mutation to a common ancestor who lived approximately 6,000 to 10,000 years ago in Europe.\n\n### Mechanisms of Melanin Production\n\nThe production of melanin, the pigment responsible for eye color, involves a series of enzymatic reactions primarily governed by the **TYR (Tyrosinase)** gene. Tyrosinase catalyzes the first two steps in melanin synthesis, converting the amino acid tyrosine into dopaquinone. Subsequent reactions, influenced by genes like **TYRP1** and **SLC24A4**, determine whether eumelanin (black/brown pigment) or pheomelanin (red/yellow pigment) is produced.\n\nVariations in melanin concentration and type in the stromal layer of the iris influence the final observed eye color. For example:\n- High eumelanin levels lead to dark brown eyes.\n- Minimal melanin combined with light scattering creates blue eyes.\n- A mix of eumelanin and pheomelanin produces hazel or green eyes.\n\n### Additional Genes Influencing Eye Color\n\nWhile OCA2 and HERC2 are pivotal, many other genes contribute to the diversity of eye color. Recent research has highlighted the roles of the following genes:\n\n1. **SLC24A4**: Involved in calcium transport, this gene influences pigmentation. Variants are associated with lighter eye colors, such as blue and green.\n\n2. **TYR (Tyrosinase)**: TYR is critical for melanin synthesis. Mutations in this gene can lead to albinism, significantly reducing pigmentation in the iris and resulting in very light or even red eyes.\n\n3. **SLC45A2**: Associated with lighter pigmentation, this gene is more prevalent in European populations and contributes to both eye and skin color.\n\n4. **IRF4 (Interferon Regulatory Factor 4)**: This gene regulates melanin production and is linked to lighter eye colors. It also influences traits like hair graying and freckling.\n\n5. **TYRP1 (Tyrosinase-Related Protein 1)**: TYRP1 affects the type of melanin produced, influencing the spectrum from dark brown to amber hues.\n\n6. **ASIP (Agouti Signaling Protein)**: ASIP regulates melanin pathways, indirectly influencing eye pigmentation.\n\n7. **HERC2 Regulatory Variants**: Beyond the mutation linked to blue eyes, other HERC2 variants fine-tune OCA2 expression, leading to intermediate shades such as hazel and amber.\n\n### Genome-Wide Association Studies (GWAS)\n\nGWAS have identified over **50 genetic loci** linked to eye color. These studies use large datasets to map DNA variations across populations, uncovering how subtle genetic differences influence melanin levels in the iris. This research has solidified the understanding of eye color as a polygenic trait and provided insights into how these traits evolved.\n\n---\n\n## Comparative Genetics Across Species\n\nThe study of eye pigmentation is not limited to humans. Many animals exhibit diverse eye colors, governed by similar genetic mechanisms:\n\n- **Cats**: Genes like TYR influence the vibrant blue eyes of Siamese cats, while variations in ASIP and TYRP1 contribute to green or amber hues.\n- **Birds**: The genetics of eye color in birds often involves carotenoid pigments, which are absent in humans. Parrots and hawks, for example, derive eye colors from dietary components.\n- **Dogs**: Eye color in dogs is influenced by genes like MITF, which also affect coat pigmentation.\n\nComparative studies highlight the evolutionary adaptability of pigmentation genes across species.\n\n---\n\n## Advances in Eye Color Prediction\n\nWith the advent of advanced genetic technologies, predicting eye color from DNA has become highly accurate. Tools like IrisPlex analyze key genetic markers to estimate eye color with over 90% accuracy. These predictions are invaluable in:\n\n- **Forensic Science**: Reconstructing physical profiles of unidentified individuals.\n- **Ancestry Testing**: Providing insights into genetic heritage and migration patterns.\n\n---\n\n## A Timeline of Discoveries in Eye Color Genetics\n\n- **Early 1900s**: Eye color is initially believed to follow a simple Mendelian inheritance pattern (brown dominant over blue).\n- **1990s**: The OCA2 gene is identified as a major determinant of eye color.\n- **2000s**: GWAS reveal the polygenic nature of eye color, identifying additional genes like SLC24A4 and TYR.\n- **2010s**: Studies refine the understanding of how regulatory elements, such as HERC2, influence OCA2 activity.\n- **2020s**: Advances in genetic sequencing enable precise prediction of eye color from DNA, aiding fields like forensic science and ancestry research.\n\n---\n\n## The Complexity of Eye Color Inheritance\n\nEye color is influenced by the interplay of multiple genes, each contributing to the spectrum of hues observed globally. Key factors include:\n\n- **Melanin Levels**: Higher melanin concentrations result in darker eye colors, such as brown, while lower levels produce lighter shades like blue or green.\n- **Pigment Types**: Eumelanin (brown/black pigment) and pheomelanin (red/yellow pigment) combine in varying proportions to create intermediate colors like hazel and amber.\n- **Gene Interactions**: The polygenic nature of eye color means that small variations in multiple genes can have cumulative effects, creating a wide range of possibilities.\n\n---\n\n## Conclusion: The Genetic Puzzle of Eye Color\n\nThe study of eye color genetics has come a long way since the early 20th century, evolving from a simplistic Mendelian model to a nuanced understanding of a polygenic trait influenced by dozens of genes. From the pivotal roles of OCA2 and HERC2 to the contributions of secondary genes and regulatory elements, the diversity of eye color reflects the intricate interplay of genetics.\n\nThis field continues to be a rich area of research, with new discoveries shedding light on how our genetic blueprint shapes one of our most defining features. As genetic science advances, the story of eye color—and its role in human adaptation and diversity—promises to become even more fascinating.\n"
+    },
+    "article2": {
+      "meta": {
+        "metaTitle": "The Fascinating Evolution of Blue Eyes: A Recent Genetic Mystery",
+        "metaDescription": "Discover the captivating story of blue eyes, their origins, and genetic links to green eyes. Unravel the evolutionary journey and the science behind this unique trait.",
+        "image": "/template/articles/evolution-of-blue-eyes/origins-of-blue-eyes.png",
+        "altImage": "Evolution of Blue Eyes color"
+      },
+      "title": "The Fascinating Evolution of Blue Eyes: A Recent Genetic Mystery",
+      "intro": "Blue eyes are believed to have originated between 6,000 and 10,000 years ago. Scientists have traced the earliest known cases to a genetic mutation in a single common ancestor. This ancestor likely carried a variation in the HERC2 gene, which suppresses melanin production in the iris, resulting in the distinct blue eye color we see today.",
+      "texte": "Eye color is one of the most visually striking human traits, ranging from deep brown to vibrant blue and green. The\ndiversity in eye color is primarily influenced by the amount and distribution of melanin in the iris. While brown eyes\nare the most common and ancient eye color, blue eyes stand out as a relatively recent evolutionary trait.\n\nBlue eyes are unique in that they lack significant amounts of melanin, allowing light to scatter within the iris and\ncreate the characteristic blue appearance. What makes them even more intriguing is their relatively recent emergence in\nhuman history, dating back only around 6,000 to 10,000 years ago. This makes blue eyes a fascinating case of rapid\ngenetic change compared to other physical traits.\n\nIn this article, we will delve into the origins of blue eyes, exploring how a single genetic mutation likely gave rise\nto this feature and how it spread across populations over time. We will also examine the connection between blue and\ngreen eyes, uncovering their genetic similarities and evolutionary pathways. Understanding the story behind blue eyes\nprovides a window into human migration, adaptation, and natural selection.\n\n## The Genetics Behind Eye Color (Brief Recap)\n\nEye color is determined by the amount and type of melanin present in the iris, which is primarily influenced by genetic\nvariations. Melanin, a pigment found in the skin, hair, and eyes, exists in two forms: eumelanin (which is brown or\nblack) and pheomelanin (which is red or yellow). The concentration and distribution of these pigments affect the\nperceived eye color. Brown eyes have a high concentration of eumelanin, whereas blue eyes result from a lack of\nsignificant melanin, causing light to scatter within the iris.\n\n### Genetic Variations Influencing Eye Pigmentation\n\nSeveral genes are involved in eye color determination, with the most significant being the OCA2 and HERC2 genes. OCA2 (\nOculocutaneous Albinism II) provides instructions for the production of a protein that helps regulate melanin production\nin the iris. Mutations in this gene can lead to variations in melanin levels, affecting eye color. The HERC2 gene acts\nas a regulatory switch for OCA2, influencing how much melanin is produced. A specific mutation in the HERC2 gene,\nlocated near OCA2, is strongly associated with blue eye color.\n\nOther genes, such as SLC24A4 and TYR, also contribute to eye pigmentation by affecting melanin synthesis and transport\nwithin the iris cells.\n\n### Inheritance of Eye Color\n\nEye color is a polygenic trait, meaning it is influenced by multiple genes rather than a single gene. While it was once\nbelieved that eye color followed a simple dominant-recessive inheritance pattern, modern genetics has revealed that it\nis much more complex. Individuals inherit a combination of alleles from both parents, which interact to produce a range\nof possible eye colors. For example, someone with one blue-eyed allele and one brown-eyed allele may have brown eyes due\nto the dominance of melanin-producing genes, but they can still pass the blue-eyed trait to their offspring.\n\nFor more detailed genetic insights, you can refer to our previous article on eye color inheritance.\n\n## The Origin of Blue Eyes\n\nBlue eyes are believed to have originated between 6,000 and 10,000 years ago. Scientists have traced the earliest known\ncases to a genetic mutation in a single common ancestor. This ancestor likely carried a variation in the HERC2 gene,\nwhich suppresses melanin production in the iris, resulting in the distinct blue eye color we see today.\n\nStudies using ancient DNA analysis confirm that the mutation spread rapidly across Europe, with evidence pointing to\npopulations around the Black Sea region as the likely origin point. Early European hunter-gatherers and later farming\ncommunities are known to have carried this genetic trait, which was gradually distributed across different regions\nthrough migration and interbreeding.\n\nGenetic evidence from archaeological remains, such as those found in Mesolithic sites in Spain and Scandinavia, has\nshown that blue-eyed individuals coexisted with darker-eyed populations. The spread of blue eyes coincided with the\nNeolithic expansion, where farming and migration patterns contributed to the wide dispersal of the mutation across\nEurope and parts of Central Asia.\n\nThe persistence of blue eyes in certain populations may have been influenced by factors such as natural selection,\nsocial preferences, and climatic conditions that favored the visibility of lighter eye colors in northern latitudes with\nlower sunlight exposure.\n\n## How the Blue Eye Mutation Was Inherited\n\nThe mutation responsible for blue eyes likely occurred on a single allele initially. This means that the original\nancestor carrying the mutation may not have had blue eyes themselves but was instead a carrier of the trait. As blue\neyes are a recessive trait, they require two copies of the blue-eye allele to manifest.\n\nIf the original ancestor carried only one mutated allele, their eye color would have remained brown, but they could have\npassed the mutation to their offspring. Over generations, individuals who inherited the blue-eye allele from both\nparents would have exhibited blue eyes. This process required interbreeding among descendants who carried the allele,\neventually leading to a population with a noticeable frequency of blue-eyed individuals.\n\nScientists believe that the spread of the blue-eye trait was facilitated through genetic drift, founder effects, and\nsocial preferences, allowing the trait to become more prevalent in certain regions.\n\n## Hypotheses on the Emergence of the Blue Eye Mutation\n\n### Founder Effect\n\nA small population carrying the blue eye mutation may have contributed significantly to its spread. If the mutation\nappeared in a geographically isolated group, it could have become more common through generations of interbreeding and\npopulation bottlenecks, leading to a higher prevalence of blue eyes in certain regions.\n\n### Sexual Selection\n\nSome researchers propose that blue eyes may have been perceived as an attractive or desirable trait, leading to higher\nreproductive success for individuals with blue eyes. This preference could have played a role in the proliferation of\nthe trait, as individuals with blue eyes were more likely to find mates and pass on their genes.\n\n### Adaptive Advantage or Neutral Evolution\n\nIt is suggested that blue eyes might have conferred an advantage in environments with lower light levels, such as\nNorthern Europe. Lighter eye colors may have enhanced night vision or light sensitivity. Alternatively, the trait may\nhave persisted through neutral evolution without offering a significant adaptive advantage.\n\n### Nutritional and Environmental Factors\n\nThe link between melanin levels and vitamin D synthesis has also been explored. In regions with less sunlight,\nindividuals with lower melanin levels might have had a better ability to synthesize vitamin D, which could have\ncontributed to the survival and proliferation of the blue-eye trait.\n\n## Connection Between Blue and Green Eyes\n\nBlue and green eyes share genetic similarities, with both resulting from variations in the amount and type of melanin\npresent in the iris. The primary difference lies in the slightly higher presence of melanin in green eyes compared to\nblue eyes. This increased melanin content creates a green appearance rather than the light-scattering effect seen in\nblue eyes.\n\nThe genetic foundation of green eyes involves the same key genes, particularly OCA2 and HERC2, but with different\nexpressions of melanin production. Some researchers suggest that green eyes may have evolved from blue eyes through\nfurther genetic diversification and environmental influences.\n\nEvolutionarily, green eyes likely emerged as populations carrying the blue-eye allele interbred with individuals\npossessing genes for higher melanin production, resulting in intermediate eye colors such as green and hazel. Today,\ngreen eyes are most commonly found in regions such as Northern and Central Europe, where genetic mixing has been\nprevalent.\n\nStudies indicate that, like blue eyes, green eyes may have been subject to sexual selection and cultural preferences,\ncontributing to their persistence in certain populations despite being less common globally.\n\n## Geographic Distribution of Blue and Green Eyes\n\nBlue and green eyes are primarily found in populations of European descent, with the highest prevalence in Northern and\nEastern Europe. Countries such as Estonia, Finland, and Sweden report some of the highest frequencies of blue eyes, with\nover 80% of the population having blue eyes. Green eyes, while rarer, are most commonly found in Ireland, Scotland, and\nIceland, where they account for a significant portion of the population.\n\nIn Central and Southern Europe, the frequency of blue and green eyes decreases, with brown eyes becoming more dominant\ndue to higher levels of melanin production associated with warmer climates and greater sun exposure. Outside of Europe,\nblue and green eyes are considerably less common but can still be found in populations with European ancestry, such as\nin North America and Australia.\n\n### The Decline of Blue and Green Eyes\n\nWith increasing globalization and genetic mixing, the prevalence of blue and green eyes has been gradually declining in\nmany regions. As populations become more diverse and intermarriages between different ethnic groups occur, the genetic\nmakeup that favors lighter eye colors is becoming less common. This has led to a gradual decrease in the proportion of\nindividuals with blue and green eyes in traditionally high-prevalence areas.\n\nAdditionally, changing cultural preferences and social mobility have further contributed to the mixing of gene pools,\nreducing the concentration of these eye colors in specific regions. Despite this decline, blue and green eyes remain\niconic features in many European populations and continue to be subjects of fascination and scientific study.\n\n## Blue Eyes and Evolution Today\n\n### Genetic Diversity and Evolutionary Context\n\nBlue and green eyes represent a fascinating aspect of human genetic diversity. They offer insights into how genetic\ntraits can persist and evolve within populations over time. Although blue and green eyes are less common than brown\neyes, their presence in the global gene pool contributes to the broader spectrum of human phenotypic variation. These\neye colors are the result of complex genetic interactions that continue to intrigue researchers studying human evolution\nand adaptation.\n\n### Future Trends: Will Blue and Green Eyes Persist?\n\nSpeculations about the future of blue and green eyes suggest that their prevalence may continue to decline due to\nincreasing genetic mixing. However, recessive traits like blue eyes can remain hidden in the gene pool and resurface in\nfuture generations if both parents carry the necessary genetic alleles. Additionally, cultural preferences and aesthetic\ntrends may influence the desirability of blue and green eyes, potentially playing a role in their persistence.\n\nOn the other hand, selective pressures such as natural adaptation to different climates may no longer have a significant\nimpact on eye color distribution due to modern lifestyles and global movement. This means that blue and green eyes could\npersist as part of the natural genetic diversity rather than as adaptive traits.\n\n### Advances in Genetic Research\n\nRecent advances in genetic research are shedding new light on the evolutionary history of eye color. Genome-wide\nassociation studies (GWAS) have identified multiple genetic loci associated with eye pigmentation, offering a deeper\nunderstanding of the genetic mechanisms behind blue and green eyes. These studies have also contributed to forensic\nscience, allowing for the prediction of eye color based on genetic data with increasing accuracy.\n\nFurthermore, advancements in evolutionary biology continue to explore how genetic drift, selection, and migration\npatterns have influenced the distribution of eye colors over millennia. Ongoing research may provide further insights\ninto how eye color diversity evolved and its potential role in human adaptation.\n\n## Conclusion\n\nIn summary, blue and green eyes are unique genetic traits that have emerged relatively recently in human history. Their origins, distribution, and potential future changes provide valuable insights into human evolution and genetic diversity. Despite their gradual decline due to globalization and genetic mixing, blue and green eyes remain an intriguing subject of scientific inquiry.\n\nUnderstanding the underlying genetic mechanisms of eye color allows us to appreciate the complexity and beauty of human diversity. Ongoing research continues to uncover new facets of how these traits have evolved and their significance in the broader context of human genetics.\n\nWe encourage readers to explore further into the world of genetic evolution and eye color diversity, as this field continues to expand with new discoveries.\n\n## References\n\n- **Sturm, R. A., & Larsson, M.** (2009). *Genetics of human iris color and patterns.*    \n  [*Pigment Cell & Melanoma Research, 22*(5), 544-562.](https://doi.org/10.1111/j.1755-148X.2009.00610.x)\n\n- **Eiberg, H.** (2008). *Blue eye color in humans may be caused by a perfectly associated founder mutation in a regulatory element located within the HERC2 gene inhibiting OCA2 expression.*    \n  [*Human Genetics, 123*(2), 177-187.](https://doi.org/10.1007/s00439-007-0460-x)\n\n- **Kayser, M., & de Knijff, P.** (2011). *Improving human forensics through advances in genetics, genomics and molecular biology.*  \n      [*Nature Reviews Genetics, 12*(3), 179-192.](https://doi.org/10.1038/nrg2952)\n"
+    }
+  }
+}
+
+

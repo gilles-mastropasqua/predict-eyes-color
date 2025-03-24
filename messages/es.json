@@ -1,0 +1,394 @@
+{
+  "ui": {
+    "menu": "Menu",
+    "close": "Cerrar"
+  },
+  "topMenu": {
+    "item1": "Calculador",
+    "item2": "Como funciona",
+    "item3": "Explorar"
+  },
+  "homePage": {
+    "meta": {
+      "metaTitle": "Calculadora de Color de Ojos: Predice el Color de Ojos de tu Bebé",
+      "metaDescription": "Calcula el color de ojos de tu bebé con un método preciso que utiliza rasgos familiares y tonos únicos como gris, ámbar y avellana."
+    },
+    "content": {
+      "h1": "Calcula el color de los ojos de su futuro bebé",
+      "moreInformations": "¿Más información sobre tu futuro bebé?",
+      "babyGenderPredictorApp": "Calcular el sexo de tu futuro bebé",
+      "babySkinColorCalculatorApp": "Calcular el color de piel de tu futuro bebé",
+      "babyHairColorCalculatorApp": "Calcular el color de pelo de tu futuro bebé"
+    },
+    "calculator": {
+      "calculatorName": "Calculador",
+      "calculatorSelect": "Haz clic en cada personaje para seleccionar el color de sus ojos :",
+      "maternalGrandMother": "Abuela<br></br>Materna",
+      "maternalGrandFather": "Abuelo<br></br>Materno",
+      "paternalGrandMother": "Abuela<br></br>Paterna",
+      "paternalGrandFather": "Abuelo<br></br>Paterno",
+      "mother": "Madre",
+      "father": "Padre",
+      "MGM": "Abuela Materna",
+      "MGF": "Abuelo Materno",
+      "PGM": "Abuela Paterna",
+      "PGF": "Abuelo Paterno",
+      "MO": "Madre",
+      "FA": "Padre",
+      "baby": "Bebé",
+      "babyAlt": "Bebé con el color de ojos",
+      "eyesColor": "Color de los ojos :",
+      "selectEyesColor": "Color de ojos:",
+      "BLUE": "Azul",
+      "GREEN": "Verde",
+      "BROWN": "Marrón",
+      "HAZEL": "Avellana",
+      "BLACK": "Negro",
+      "GRAY": "Gris",
+      "AMBER": "Ambar",
+      "UNDEFINED": "Desconocido",
+      "babyEyesColorProbability": "Probabilidad del color de ojos del bebé :"
+    },
+    "faq": {
+      "faqName": "Cómo funciona el calculador del color de ojos del bebé",
+      "explanation": {
+        "title": "Explicación del método de predicción del color de ojos",
+        "intro": "Un enfoque revolucionario para predecir el color de ojos",
+        "details": "Nuestro método de predicción del color de ojos representa un avance significativo con respecto a los modelos genéticos mendelianos tradicionales. Al incorporar una jerarquía de dominancia ampliada y una gama más amplia de colores de ojos, nuestro método proporciona predicciones altamente detalladas y precisas. Además de los colores clásicos como marrón, verde y azul, este método considera tonos más matizados como avellana, gris y ámbar.",
+        "genetics": "La predicción se basa en un análisis profundo de los alelos heredados de ambos padres y abuelos. Cada genotipo posible se evalúa en función de una jerarquía de dominancia, asegurando que el fenotipo más probable (color de ojos) se determine con precisión. A diferencia de los modelos mendelianos simples, que suelen limitarse a solo tres colores, nuestro método integra el conocimiento genético moderno para reflejar la verdadera complejidad de la herencia del color de ojos humano.",
+        "features": {
+          "title": "Características clave de este método:",
+          "palette": "Paleta de colores ampliada: Más allá de marrón, verde y azul, el modelo incluye tonos como avellana, gris y ámbar, así como combinaciones que resultan en variaciones sutiles.",
+          "hierarchy": "Jerarquía de dominancia avanzada: El modelo clasifica los alelos según su dominancia, garantizando un mapeo fenotípico preciso.",
+          "grandparents": "Influencia de los abuelos: Al considerar los colores de ojos de los abuelos, mejoramos la precisión predictiva al tener en cuenta alelos recesivos.",
+          "probabilities": "Resultados probabilísticos: En lugar de resultados binarios, el método proporciona probabilidades porcentuales para cada color, ofreciendo un perfil predictivo más completo."
+        },
+        "conclusion": "Con este enfoque innovador, los usuarios obtienen una comprensión más profunda de cómo interactúan los rasgos genéticos para determinar el color de ojos, abarcando tanto resultados comunes como raros."
+      },
+      "questions": {
+        "title": "Preguntas frecuentes: Predicción del color de ojos",
+        "q1": {
+          "question": "¿En qué se diferencia este método de los modelos genéticos tradicionales?",
+          "answer": "Los modelos genéticos mendelianos tradicionales suelen predecir el color de ojos utilizando una herencia simple dominante-recesiva para tres colores: marrón, verde y azul. Nuestro método amplía esto al incorporar colores adicionales (avellana, gris, ámbar) y considerar jerarquías de dominancia más complejas."
+        },
+        "q2": {
+          "question": "¿Cuáles son los nuevos colores de ojos introducidos en este método?",
+          "answer": "Además de los colores clásicos (marrón, verde, azul), nuestro modelo incluye colores de ojos como avellana, gris y ámbar."
+        },
+        "q3": {
+          "question": "¿Cómo utiliza el modelo los colores de ojos de los abuelos?",
+          "answer": "Los colores de ojos de los abuelos ayudan a determinar los genotipos posibles para los padres. Estos se utilizan para calcular las probabilidades de los diferentes genotipos de los hijos, garantizando predicciones más precisas."
+        },
+        "q4": {
+          "question": "¿Puede este método predecir colores de ojos únicos o raros?",
+          "answer": "Sí, la inclusión de colores matizados como ámbar y gris permite realizar predicciones que los métodos tradicionales suelen pasar por alto. Sin embargo, mutaciones genéticas extremadamente raras o condiciones específicas pueden no estar cubiertas."
+        },
+        "q5": {
+          "question": "¿Es la predicción 100% precisa?",
+          "answer": "No, la predicción se basa en probabilidades y refleja los resultados más probables. La genética es inherentemente probabilística, lo que significa que pueden ocurrir combinaciones inesperadas."
+        },
+        "q6": {
+          "question": "¿Por qué los resultados incluyen porcentajes?",
+          "answer": "Los porcentajes representan la probabilidad de cada color de ojos según las combinaciones genéticas analizadas. Este enfoque proporciona una predicción más detallada y realista que los resultados binarios de sí/no."
+        },
+        "q7": {
+          "question": "¿Puede este modelo predecir heterocromía o colores de ojos mixtos?",
+          "answer": "Este método no predice explícitamente heterocromía (ojos de diferentes colores) o colores mixtos, sino que se centra en el fenotipo único más probable. Futuras mejoras podrían incluir estas posibilidades."
+        },
+        "q8": {
+          "question": "¿Este método tiene en cuenta mutaciones genéticas?",
+          "answer": "El modelo actual se centra en patrones típicos de herencia y no considera mutaciones raras o influencias ambientales."
+        },
+        "q9": {
+          "question": "¿Puede el modelo explicar cambios en el color de ojos con el tiempo?",
+          "answer": "No, este modelo predice probabilidades genéticas al nacer. Factores ambientales o cambios a lo largo del tiempo (como el oscurecimiento o aclaramiento) están fuera de su alcance."
+        },
+        "q10": {
+          "question": "¿Este modelo está respaldado por investigaciones científicas?",
+          "answer": "Sí, el modelo se basa en principios genéticos modernos y refleja la comprensión más reciente de la dominancia de alelos y la herencia del color de ojos."
+        }
+      },
+      "howToUse": {
+        "title": "Cómo usar el calculador de color de ojos",
+        "instructionsTitle": "Instrucciones paso a paso",
+        "step1": {
+          "title": "Selecciona el color de ojos de los padres",
+          "description": "Comienza seleccionando los colores de ojos de ambos padres en los menús desplegables. Las opciones incluyen colores comunes como marrón, azul, verde y avellana, así como tonos menos frecuentes como gris y ámbar. Si no conoces el color de ojos de un padre, selecciona 'Desconocido'."
+        },
+        "step2": {
+          "title": "Selecciona el color de ojos de los abuelos",
+          "description": "A continuación, indica los colores de ojos de los abuelos. Puedes especificar el color de cada abuelo o seleccionar 'Desconocido' si no tienes la información. El calculador se adapta a los datos incompletos para proporcionar una predicción precisa."
+        },
+        "step3": {
+          "title": "Resultados instantáneos",
+          "description": "A medida que seleccionas los colores de ojos, el calculador procesa los datos instantáneamente. No es necesario hacer clic en un botón: los resultados se actualizan automáticamente según la información proporcionada."
+        },
+        "resultsTitle": "Cómo interpretar los resultados",
+        "probabilityChart": {
+          "title": "Gráfico de probabilidades",
+          "description": "Los resultados se muestran en un gráfico de probabilidades que indica la probabilidad de cada color de ojos para tu bebé."
+        },
+        "eyeColorCategories": {
+          "title": "Categorías de colores de ojos",
+          "brown": "Marrón: El color de ojos más común en el mundo.",
+          "blue": "Azul: Más frecuente en las poblaciones de origen europeo.",
+          "green": "Verde: Menos común a nivel mundial, pero frecuente en algunas regiones.",
+          "hazel": "Avellana: Una mezcla de marrón y verde, común en muchas poblaciones.",
+          "gray": "Gris: Una variación más rara de los tonos azules.",
+          "amber": "Ámbar: Un tono dorado o cobrizo, relativamente poco común."
+        },
+        "interpretationTips": {
+          "title": "Consejos para interpretar los resultados",
+          "high": "Altas probabilidades: Un porcentaje más alto sugiere una mayor probabilidad de ese color de ojos, pero no lo garantiza.",
+          "low": "Bajas probabilidades: Incluso los colores con porcentajes bajos siguen siendo posibles debido a la complejidad de la herencia genética."
+        },
+        "unknownEyeColors": {
+          "title": "Colores de ojos desconocidos",
+          "description": "Si se selecciona 'Desconocido' para algún padre o abuelo, el calculador ajusta su predicción en función de los datos disponibles. Aunque esto puede reducir ligeramente la precisión, recibirás una estimación confiable."
+        },
+        "disclaimer": {
+          "title": "Aviso legal",
+          "description": "Los resultados se basan en principios genéticos establecidos, pero no son definitivos. La herencia del color de ojos está influida por múltiples genes y los resultados pueden variar debido a la complejidad genética."
+        }
+      },
+      "eyeColorArticle": {
+        "title": "La fascinante historia, ciencia y significado cultural de los colores de ojos",
+        "intro": "El color de los ojos ha sido durante siglos una fuente de fascinación y misterio. Representa un marcador distintivo de identidad, belleza e incluso estatus en diferentes culturas.",
+        "genetics": {
+          "title": "El mecanismo genético detrás de los colores de ojos",
+          "paragraph1": "El color de los ojos está determinado por la interacción de varios genes, siendo los más influyentes OCA2 y HERC2. Estos genes regulan la producción y distribución de melanina en el iris, el pigmento responsable del color de los ojos.",
+          "brown": "Ojos marrones: El color más común a nivel mundial, resultado de una alta concentración de melanina en el iris.",
+          "blue": "Ojos azules: Contienen muy poca melanina. La dispersión de la luz dentro del iris crea la apariencia azul, un fenómeno conocido como dispersión de Rayleigh.",
+          "green": "Ojos verdes: Una mezcla única de melanina moderada y la presencia de un pigmento amarillento llamado lipocromo da lugar a los ojos verdes.",
+          "gray": "Ojos grises: Aún más raros que los verdes, los ojos grises se producen debido a variaciones estructurales específicas en el estroma, una parte del iris.",
+          "mutation": "Curiosamente, la diversidad de colores de ojos se remonta a una única mutación en el gen HERC2, que ocurrió hace aproximadamente entre 6,000 y 10,000 años en la región del Mar Negro.",
+          "mutationLink": "Leer más sobre la mutación HERC2"
+        },
+        "evolution": {
+          "title": "¿Por qué evolucionaron los colores de ojos?",
+          "brown": "Ojos marrones: Altos niveles de melanina en los ojos marrones protegen contra los rayos UV dañinos, lo cual es particularmente ventajoso en regiones soleadas como África, Asia y Oriente Medio.",
+          "light": "Colores de ojos claros (azul, verde, gris): Son más comunes en el norte de Europa y regiones con menos luz solar. Es posible que hayan evolucionado no por razones prácticas, sino debido a la selección sexual, donde los rasgos únicos se volvieron atractivos a lo largo de las generaciones.",
+          "conclusion": "Hoy en día, estas ventajas evolutivas son menos relevantes en nuestro mundo moderno, pero la historia genética de los colores de ojos sigue moldeando nuestra comprensión de la diversidad humana."
+        },
+        "culture": {
+          "title": "El significado cultural de los colores de ojos",
+          "intro": "El color de los ojos siempre ha llevado un peso simbólico y cultural en las sociedades. Sus significados e interpretaciones varían ampliamente según la época, la geografía y la tradición.",
+          "europe": "En Europa: Los ojos claros, especialmente los azules y verdes, a menudo se consideraban un marcador de pureza, nobleza e incluso divinidad en la Edad Media.",
+          "asiaAfrica": "En Asia y África: Los ojos marrones, al ser dominantes, simbolizan estabilidad, confiabilidad y una fuerte conexión con el mundo natural.",
+          "superstitions": "Supersticiones: Los ojos verdes se han relacionado con el misticismo, la brujería o habilidades sobrenaturales en varias culturas. Por ejemplo, en el folclore irlandés, los ojos verdes a veces se asociaban con hadas o encantadoras.",
+          "popCulture": "Cultura pop moderna: Los medios de comunicación y el entretenimiento han elevado colores de ojos raros como el violeta o el ámbar como rasgos de singularidad, frecuentemente vistos en personajes de fantasía o protagonistas con habilidades extraordinarias.",
+          "source": "Distribución de la población mundial según el color de ojos"
+        },
+        "calculator": {
+          "title": "¿Por qué los padres quieren predecir el color de ojos de su bebé?",
+          "intro": "En los últimos años, herramientas como la calculadora de color de ojos han facilitado a los padres estimar el posible color de ojos de su bebé. Estas herramientas utilizan algoritmos avanzados para analizar las contribuciones genéticas de los padres e incluso de los abuelos, proporcionando probabilidades para cada posible color de ojos.",
+          "scientificCuriosity": "Esta curiosidad surge de múltiples factores: científicos, emocionales e incluso estéticos. Para algunos, entender los mecanismos genéticos detrás de rasgos como el color de ojos es una forma fascinante de conectarse con la historia genética única de su familia. Las calculadoras de color de ojos permiten a los padres visualizar cómo se transmiten los rasgos, acercando la ciencia a la vida cotidiana.",
+          "emotionalBond": "Los padres también encuentran alegría en imaginar cómo se verá su hijo, y el color de ojos es a menudo uno de los rasgos más anticipados. ¿El bebé heredará los llamativos ojos azules del padre, la profunda mirada marrón de la madre, o quizás los raros ojos verdes de un abuelo? Las respuestas, aunque probabilísticas, brindan una sensación de asombro y expectativa durante el viaje de la paternidad.",
+          "culturalSymbolism": "En algunas culturas, el color de ojos está vinculado a la identidad y significados simbólicos. Los padres pueden desear saber si su bebé continuará un rasgo familiar raro, como los ojos verdes o grises, que podrían considerarse un signo de singularidad. Las calculadoras de color de ojos ofrecen información sobre estas posibilidades, convirtiendo probabilidades genéticas en conexiones significativas.",
+          "interactiveLearning": "Más allá de la conexión emocional, estas herramientas ofrecen la oportunidad de interactuar con la ciencia de una manera accesible e interactiva. La genética, a menudo percibida como un campo complejo, se vuelve más comprensible a través de calculadoras que descomponen probabilidades en resultados visualmente atractivos y fáciles de entender. Este aspecto educativo enriquece la experiencia para los padres, combinando curiosidad con conocimiento.",
+          "preparation": "Finalmente, las calculadoras de color de ojos aprovechan la emoción de prepararse para un nuevo miembro de la familia. Conocer las características potenciales ayuda a los padres a sentirse más cerca de su hijo incluso antes del nacimiento, fomentando un sentido de conexión y apego. Es una forma pequeña pero significativa de unir el período de espera con la ciencia, la imaginación y la emoción."
+        },
+        "personality": {
+          "title": "¿Influyen los colores de ojos en la personalidad o el comportamiento?",
+          "blue": "Ojos azules: A menudo asociados con calma, intelecto o introversión.",
+          "brown": "Ojos marrones: Simbolizan calidez, confiabilidad y resiliencia.",
+          "green": "Ojos verdes: Relacionados con creatividad, imprevisibilidad o encanto.",
+          "gray": "Ojos grises: Percibidos como misteriosos o introspectivos."
+        },
+        "distribution": {
+          "title": "Distribución global de colores de ojos",
+          "description": "Los colores de ojos están distribuidos de manera desigual en todo el mundo, reflejando la diversidad genética y los patrones históricos de migración. Mientras que los ojos marrones dominan a nivel mundial, otros colores como el azul, verde, gris y ámbar se concentran en regiones o poblaciones específicas.",
+          "source": "Descubre la distribución global de colores de ojos",
+          "brown": "Ojos marrones: Representan más del 70% de la población mundial, siendo, con diferencia, el color más común. Este color predomina en regiones como África, Asia, Oriente Medio y las Américas, donde la característica genética de niveles más altos de melanina ha sido seleccionada naturalmente.",
+          "blue": "Ojos azules: Encontrados en aproximadamente el 8-10% de la población, los ojos azules son más frecuentes en Europa, especialmente en países como Estonia, Finlandia y Suecia, donde más del 80% de la población tiene ojos azules. Este rasgo probablemente se extendió a través de la deriva genética y la selección sexual.",
+          "green": "Ojos verdes: Uno de los colores más raros, los ojos verdes están presentes en solo alrededor del 2% de la población, principalmente en el norte y centro de Europa. Los ojos verdes se consideran únicos y a menudo están rodeados de misticismo cultural.",
+          "gray": "Ojos grises: Aún más raros que los verdes, los ojos grises se encuentran principalmente en Europa del Este y Rusia. Se cree que resultan de una combinación única de bajos niveles de melanina y la forma en que la luz se dispersa en el iris.",
+          "amber": "Ojos ámbar: Un color llamativo y poco común, los ojos ámbar tienen un brillo dorado o cobrizo debido a la presencia de pigmento lipocromo. Este color se ve con mayor frecuencia en partes de Asia, América del Sur y Oriente Medio.",
+          "observations": "Estos patrones destacan la fascinante interacción entre genética, evolución y migraciones históricas, haciendo de cada color de ojos un marcador único de la diversidad humana."
+        },
+        "conclusion": "El color de los ojos es más que un rasgo físico; es una narrativa de evolución, cultura e identidad personal. Desde sus orígenes genéticos hasta su simbolismo cultural, el viaje de los colores de ojos destaca la increíble diversidad de la vida humana."
+      }
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Política de privacidad",
+    "contact": "Contacto",
+    "legalNotice": "Aviso legal",
+    "copyright": "© {year} Predict'Eyes. Todos los derechos reservados.",
+    "developedBy": "Developed with ❤\uFE0F by {name}"
+  },
+  "404": {
+    "meta": {
+      "metaTitle": "Página no encontrada - Predict'Eyes",
+      "metaDescription": "¡Vaya! La página que buscas no existe. Explora Predict'Eyes para descubrir nuestro calculador del color de ojos para bebés."
+    },
+    "content": {
+      "missing": "Falta algo.",
+      "sorry": "Lo sentimos, no podemos encontrar esta página.",
+      "backToHomepage": "Volver a la página principal"
+    }
+  },
+  "share": {
+    "title": "¡Tus resultados son fascinantes, compártelos con tu familia y amigos!",
+    "sharedTitle": "Hicimos este test para predecir el color de ojos de nuestro bebé, ¡y los resultados son fascinantes! Es muy preciso, ya que utiliza los colores de ojos de los padres y abuelos. ¡Haz el test y comparte tus resultados con amigos y familiares!",
+    "sharedHashtags": "#CalculadoraColorDeOjos"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidad",
+    "introduction": {
+      "title": "1. Introducción",
+      "text": "Bienvenido al sitio web de Predict Eyes ('el Sitio'), operado por 3w Creation, una empresa registrada en Francia. Valoramos su privacidad y estamos comprometidos con la protección de sus datos personales. Esta política de privacidad explica en detalle cómo manejamos y protegemos la información recopilada durante su interacción con nuestro Sitio. Al utilizar este Sitio, usted acepta las prácticas descritas en esta política. Predict Eyes se esfuerza por ofrecer una experiencia informativa y fácil de usar, centrándose en herramientas como gráficos de predicción del color de ojos y análisis de patrones hereditarios."
+    },
+    "operatorInformation": {
+      "title": "2. Información del Operador",
+      "companyName": "Nombre de la Empresa",
+      "text": "El sitio web de Predict Eyes es operado por 3w Creation, una empresa con sede en Francia especializada en crear herramientas en línea accesibles e innovadoras. Nuestra misión es combinar algoritmos avanzados con un diseño intuitivo para proporcionar soluciones precisas y centradas en el usuario.",
+      "website": "Sitio web",
+      "responsible": "Persona Responsable",
+      "contactEmail": "Correo Electrónico de Contacto",
+      "github": "Repositorio GitHub",
+      "githubLink": "https://github.com/gilles-mastropasqua"
+    },
+    "dataCollected": {
+      "title": "3. Datos Recopilados",
+      "text": "No recopilamos ni almacenamos ningún dato personal de los usuarios de nuestro Sitio. Todas las funciones, incluidas las herramientas para predecir el color de los ojos y visualizar gráficos genéticos, están diseñadas para procesar interacciones de forma anónima. No se almacena ningún dato identificable de los usuarios en nuestros servidores, garantizando así la protección total de su privacidad."
+    },
+    "umami": {
+      "title": "4. Uso de Umami para el Seguimiento de Visitas",
+      "text": "Utilizamos Umami, una herramienta de análisis ligera y enfocada en la privacidad, para monitorear la actividad anónima de los usuarios en nuestro Sitio. Esto nos permite comprender el compromiso de los usuarios y mejorar la experiencia general sin comprometer su privacidad.",
+      "compliance": "Umami cumple estrictamente con los estándares del Reglamento General de Protección de Datos (GDPR) para garantizar la protección total de los datos de los usuarios.",
+      "ccpa": "Además, Umami está alineado con las leyes estadounidenses, incluido el California Consumer Privacy Act (CCPA), para garantizar la transparencia y la minimización de la recopilación de datos.",
+      "functionality": "A diferencia de muchas herramientas de análisis, Umami no utiliza cookies ni almacena datos personales. Solo registra métricas anonimizadas, como vistas de página y duración de la sesión, ayudándonos a refinar funciones como los calculadores de color de ojos y los gráficos hereditarios.",
+      "learnMore": "Obtenga más información sobre Umami visitando su sitio web oficial"
+    },
+    "cookies": {
+      "title": "5. Cookies",
+      "text": "Nuestro Sitio no utiliza cookies ni otras tecnologías de seguimiento que almacenen información en su dispositivo. Las funciones, como los gráficos de color de ojos y las herramientas de predicción, funcionan perfectamente sin necesidad de cookies, asegurando una experiencia de navegación segura y privada."
+    },
+    "usCompliance": {
+      "title": "6. Cumplimiento de las Leyes de Privacidad de EE.UU.",
+      "text": "Predict Eyes cumple con el GDPR y se alinea con las regulaciones estadounidenses, incluido el California Consumer Privacy Act (CCPA) y el Children's Online Privacy Protection Act (COPPA). Al evitar la recopilación de datos personales, incluidos los de menores de 13 años, nuestro Sitio garantiza el cumplimiento total de estas regulaciones al tiempo que mantiene la transparencia y la confianza de los usuarios."
+    },
+    "dataSharing": {
+      "title": "7. Compartir o Vender Datos",
+      "text": "No compartimos, vendemos ni alquilamos ningún dato de los usuarios a terceros. Toda la información anonimizada, como los análisis del sitio web, se utiliza exclusivamente para fines internos con el fin de mejorar funciones como nuestros modelos predictivos y herramientas de visualización de patrones hereditarios."
+    },
+    "rights": {
+      "title": "8. Sus Derechos",
+      "protection": "Como usuario, tiene derecho a la protección de datos, incluso si no se recopilan ni procesan datos personales.",
+      "inquiry": "Puede preguntar cómo se gestionan los datos anónimos o solicitar más detalles contactándonos en predicteyes@gmail.com."
+    },
+    "academic": {
+      "title": "9. Contexto Académico e Información sobre el Color de Ojos",
+      "text": "Predict Eyes ofrece herramientas basadas científicamente para explorar patrones hereditarios a través de gráficos de color de ojos. Al aprovechar la genética mendeliana y los modelos probabilísticos, nuestra plataforma calcula posibles resultados de color de ojos basados en los genotipos parentales. Este sistema incorpora datos de una amplia gama de estudios genéticos, asegurando que las predicciones sean lo más precisas y confiables posible. Los gráficos de color de ojos, integrales en este proceso, proporcionan un marco visual para comprender interacciones genéticas complejas. Los usuarios pueden interactuar con diagramas dinámicos que muestran probabilidades de colores de ojos de los descendientes, como azul, verde, marrón y variaciones raras. Estas herramientas son particularmente útiles para educadores, investigadores y personas interesadas en la fascinante interacción de los genes en la determinación de rasgos fenotípicos. Mediante el uso de algoritmos avanzados y gráficos visualmente atractivos, Predict Eyes combina precisión científica con un diseño fácil de usar."
+    },
+    "changes": {
+      "title": "10. Cambios en esta Política",
+      "text": "Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento para reflejar cambios en nuestras prácticas, tecnologías o para el cumplimiento legal. Las actualizaciones se publicarán en esta página, y le recomendamos que revise esta política periódicamente para mantenerse informado sobre cómo protegemos sus datos.",
+      "lastUpdated": "Última Actualización: 12 de enero de 2025"
+    },
+    "meta": {
+      "metaTitle": "Política de Privacidad - Predict Eyes",
+      "metaDescription": "Descubra cómo Predict Eyes respeta su privacidad y cumple con las leyes GDPR y CCPA mientras ofrece herramientas para explorar la genética y los patrones hereditarios del color de ojos."
+    }
+  },
+  "LegalNotice": {
+    "title": "Aviso Legal",
+    "websiteOwner": {
+      "title": "1. Propietario del Sitio Web",
+      "text": "El sitio web Predict Eyes es propiedad y está gestionado por 3w Creation, dedicado a proporcionar herramientas educativas y de alta calidad para predicciones genéticas.",
+      "name": "Nombre: Gilles Mastropasqua.",
+      "company": "Compañía: 3w Creation",
+      "address": "Dirección: 04170 Saint-Julien-du-Verdon, Francia.",
+      "email": "Correo electrónico:"
+    },
+    "publicationDirector": {
+      "title": "2. Director de Publicación",
+      "name": "Nombre: Gilles Mastropasqua.",
+      "position": "Cargo: Director Ejecutivo, responsable de todos los aspectos del desarrollo de la plataforma y la experiencia del usuario."
+    },
+    "hostingProvider": {
+      "title": "3. Proveedor de Alojamiento",
+      "company": "Compañía: Vercel Inc.",
+      "address": "Dirección: 440 N Barranca Avenue #4133, Covina, CA 91723, Estados Unidos.",
+      "website": "Sitio web:",
+      "contact": "Contacto:"
+    },
+    "dataProtection": {
+      "title": "4. Protección de Datos y Cumplimiento del RGPD",
+      "text": "En Predict Eyes, la protección de su privacidad es una prioridad fundamental. Cumplimos con los estándares más altos establecidos en el Reglamento General de Protección de Datos (RGPD) para garantizar que sus datos permanezcan seguros y confidenciales. No recopilamos cookies ni almacenamos datos personales sin su consentimiento explícito, garantizando una experiencia de usuario transparente y respetuosa.",
+      "contact": "Si tiene preguntas sobre el uso de sus datos o desea ejercer sus derechos de acceso, rectificación, eliminación u objeción al procesamiento de datos, comuníquese con nosotros en predicteyes@gmail.com. Resolveremos sus inquietudes con prontitud."
+    },
+    "intellectualProperty": {
+      "title": "5. Propiedad Intelectual",
+      "text": "Todo el contenido presentado en Predict Eyes, incluidos materiales escritos, elementos visuales, gráficos y herramientas interactivas, está completamente protegido por las leyes de propiedad intelectual aplicables. Queda estrictamente prohibida cualquier reproducción, distribución o modificación no autorizada de estos activos y puede dar lugar a acciones legales.",
+      "eyeColorChart": "La tabla de predicción de color de ojos proporcionada por Predict Eyes es una herramienta educativa única que ofrece a los usuarios información sobre los mecanismos genéticos detrás de la herencia del color de ojos. Este contenido ha sido diseñado meticulosamente para mejorar la comprensión y fomentar la exploración de patrones genéticos. Cualquier uso comercial o redistribución de esta tabla sin el consentimiento previo de 3w Creation está prohibido."
+    },
+    "purpose": {
+      "title": "6. Propósito del Sitio Web",
+      "text": "Predict Eyes es una plataforma educativa e interactiva diseñada para ayudar a los usuarios a comprender la fascinante ciencia de la genética. A través de herramientas como la tabla de predicción de color de ojos, los usuarios pueden explorar las probabilidades genéticas que influyen en la herencia del color de ojos, proporcionando una experiencia práctica y atractiva para familias, educadores y entusiastas."
+    },
+    "limitationOfLiability": {
+      "title": "7. Limitación de Responsabilidad",
+      "text": "3w Creation se esfuerza por garantizar la precisión y relevancia de la información proporcionada en este sitio web. Sin embargo, debido a la complejidad de la genética y la variabilidad inherente, no podemos garantizar que todo el contenido, incluidas las predicciones generadas por la tabla de color de ojos, sea completamente exacto o exhaustivo. Estas predicciones están destinadas exclusivamente a fines informativos y educativos y no deben considerarse como un consejo genético definitivo.",
+      "disclaimer": "3w Creation no asume ninguna responsabilidad por errores, omisiones o interpretaciones derivadas del uso del contenido del sitio web, incluidas herramientas como la tabla de predicción de color de ojos."
+    },
+    "userRights": {
+      "title": "8. Derechos y Responsabilidades del Usuario",
+      "text": "Como usuario de Predict Eyes, usted acepta utilizar la plataforma de manera responsable y en cumplimiento con las leyes aplicables. Se prohíbe expresamente el uso de cualquier herramienta o recurso, como la tabla de predicción de color de ojos, para fines maliciosos, no autorizados o poco éticos. Respetar estas directrices ayuda a mantener la integridad y accesibilidad de la plataforma para todos."
+    },
+    "governingLaw": {
+      "title": "9. Ley Aplicable",
+      "text": "Estos avisos legales se rigen por la legislación francesa y garantizan el cumplimiento de las normativas nacionales y europeas. Cualquier disputa derivada del uso de Predict Eyes estará sujeta a la jurisdicción exclusiva de los tribunales competentes en Francia."
+    },
+    "contactInformation": {
+      "title": "10. Información de Contacto",
+      "text": "Si tiene más preguntas, inquietudes o comentarios sobre el marco legal o los servicios ofrecidos por Predict Eyes, no dude en ponerse en contacto con nosotros. Estamos comprometidos a responder a sus consultas de manera oportuna y profesional.",
+      "email": "Correo electrónico: predicteyes@gmail.com - Su punto de contacto principal para cualquier asunto legal o relacionado con el servicio."
+    },
+    "accessibility": {
+      "title": "11. Accesibilidad y Actualizaciones",
+      "text": "Nos comprometemos a garantizar que Predict Eyes sea accesible para todos los usuarios, incluidas las personas con discapacidades. Nuestro sitio web se actualiza regularmente para mejorar la facilidad de uso e incorporar nuevas funciones, manteniendo el cumplimiento de los estándares legales.",
+      "effectiveDate": "Este documento entra en vigor a partir del 14 de enero de 2025. Los cambios futuros se comunicarán claramente en esta página."
+    },
+    "meta": {
+      "metaTitle": "Aviso Legal - Predict Eyes",
+      "metaDescription": "Descubra el marco legal de Predict Eyes, incluyendo la propiedad del sitio web, el cumplimiento del RGPD, los derechos de propiedad intelectual e información sobre el alojamiento."
+    }
+  },
+  "Articles": {
+    "intro": {
+      "meta": {
+        "metaTitle": "Explorando el mundo de los colores de ojos: Ciencia, genética y evolución",
+        "metaDescription": "Descubre la ciencia detrás de los colores de ojos, desde la genética hasta la evolución. Explora el origen de los tonos oculares, los genes involucrados y las fascinantes historias que revelan sobre la humanidad."
+      },
+      "title": "Explorando el mundo de los colores de ojos",
+      "altImage": "Una hermosa representación de diferentes colores de ojos",
+      "p1": "Bienvenido a un espacio para descubrir la fascinante ciencia y las historias detrás de los tonos de nuestros ojos. Desde las bases genéticas que determinan el color de nuestros ojos hasta el viaje evolutivo de los tonos raros, esta colección de artículos profundiza en los misterios del iris humano.",
+      "p2": "Los colores de ojos han cautivado la curiosidad humana durante siglos, sirviendo como una ventana única a nuestro patrimonio genético, simbolismo cultural e historia evolutiva. Desde los profundos marrones del continente africano hasta los impactantes azules del norte de Europa, los colores de ojos reflejan la compleja interacción de genes, ambiente y migraciones humanas. Estos artículos exploran el fascinante mundo de los colores de ojos, analizando la ciencia, la genética y el significado cultural detrás de estos tonos cautivadores.",
+      "p3": "Aprende cómo la genética moldea la rica diversidad de colores de ojos, descubre los orígenes de rasgos antiguos y explora lo que tu color de ojos dice sobre tu ascendencia y biología. Ya sea que tengas curiosidad por la ciencia o la historia, aquí encontrarás ideas fascinantes."
+    },
+    "article1": {
+      "meta": {
+        "metaTitle": "El origen de los colores de ojos: Cómo los genes moldean nuestros ojos",
+        "metaDescription": "Descubre la fascinante historia genética y evolutiva detrás del color de los ojos. Desde los humanos antiguos con ojos marrones hasta la aparición de tonalidades azules y verdes, explora cómo la genética da forma a nuestros colores de ojos únicos.",
+        "image": "/template/articles/origin-of-eyes-color/how-genetics-shape-our-eyes.png",
+        "altImage": "Diversidad de colores de ojos humanos (marrón, azul, verde y ámbar)"
+      },
+      "title": "El origen de los colores de ojos: cómo la genética moldea nuestros ojos",
+      "intro": "El color de los ojos es más que una característica estética: es un reflejo de nuestro código genético y nuestra historia evolutiva. En este artículo, descubre la ciencia detrás de los colores de ojos, aprende cómo la genética determina sus tonos y explora la fascinante historia de cómo tonalidades tan diversas como el azul, el verde y el ámbar surgieron a lo largo del tiempo. Sumérgete en los orígenes y misterios que hacen que cada par de ojos sea único.",
+      "texte": "## ¿Por qué nos fascina el color de los ojos?\n\nEl color de los ojos ha sido durante mucho tiempo una fuente de curiosidad y fascinación. Ya sean los marrones profundos\nque evocan calidez y misterio, los azules penetrantes que recuerdan cielos despejados, o los raros verdes que parecen\ncasi mágicos, los colores de nuestros ojos juegan un papel significativo en la definición de nuestra identidad. Más allá\nde la estética, el color de los ojos lleva una fascinante historia genética que abarca miles de años y refleja nuestra\ntrayectoria evolutiva.\n\nEn este artículo, profundizamos en la genética detrás del color de los ojos, explorando los genes clave involucrados,\nlos descubrimientos científicos innovadores y los hitos en la comprensión de cómo la genética da forma a la diversidad\nque vemos hoy.\n\n---\n\n## La genética del color de los ojos: descubrimientos fundamentales y genes clave\n\n### Hitos científicos tempranos\n\nEl estudio de la genética del color de los ojos comenzó a principios del siglo XX, cuando los investigadores plantearon\npor primera vez la hipótesis de que el color de los ojos estaba determinado por un único gen con rasgos dominantes y\nrecesivos. Este modelo simplista sugería que el marrón dominaba sobre el azul, pero estudios posteriores revelaron una\nimagen mucho más compleja.\n\nUn avance significativo ocurrió en la década de 1990, cuando los científicos identificaron el gen **OCA2** en el\ncromosoma 15 como un determinante principal del color de los ojos. Investigaciones posteriores descubrieron el papel\nregulador del gen **HERC2** en el control de la expresión de OCA2, lo que explica la aparición de los ojos azules.\n\nA principios de la década de 2000, los estudios de asociación a nivel del genoma (GWAS, por sus siglas en inglés)\nrevolucionaron el campo al identificar múltiples loci genéticos asociados con el color de los ojos, demostrando que es\nun rasgo poligénico influido por numerosos genes interaccionantes.\n\n### Los genes principales: OCA2 y HERC2\n\nDos genes, **OCA2** y **HERC2**, desempeñan los roles más significativos en la determinación del color de los ojos.\n\n- **OCA2 (Albinismo Oculocutáneo II)**: Este gen, ubicado en el cromosoma 15, influye en la producción de melanina en el\n  iris. Las variantes en OCA2 pueden generar una gama de colores que va desde marrón oscuro hasta azul claro, regulando\n  la cantidad de melanina depositada en el iris. Curiosamente, las mutaciones en OCA2 también pueden contribuir al\n  albinismo, donde la producción de melanina se reduce significativamente.\n\n- **HERC2**: Este gen actúa como un interruptor regulador para OCA2. Una mutación específica en HERC2 reduce la\n  actividad de OCA2, lo que resulta en niveles más bajos de melanina y el desarrollo de ojos azules. Los estudios\n  genéticos han rastreado esta mutación hasta un ancestro común que vivió hace aproximadamente 6,000 a 10,000 años en\n  Europa.\n\n### Mecanismos de Producción de Melanina\n\nLa producción de melanina, el pigmento responsable del color de los ojos, implica una serie de reacciones enzimáticas\ngobernadas principalmente por el gen **TYR (Tirosinasa)**. La tirosinasa cataliza los dos primeros pasos en la síntesis\nde melanina, convirtiendo el aminoácido tirosina en dopaquinona. Las reacciones posteriores, influenciadas por genes\ncomo **TYRP1** y **SLC24A4**, determinan si se produce eumelanina (pigmento negro/marrón) o feomelanina (pigmento\nrojo/amarillo).\n\nLas variaciones en la concentración y el tipo de melanina en la capa estromal del iris influyen en el color final de los\nojos. Por ejemplo:\n\n- Altos niveles de eumelanina conducen a ojos marrones oscuros.\n- Una cantidad mínima de melanina combinada con la dispersión de luz crea ojos azules.\n- Una mezcla de eumelanina y feomelanina produce ojos color avellana o verdes.\n\n### Genes Adicionales que Influyen en el Color de los Ojos\n\nAunque OCA2 y HERC2 son fundamentales, muchos otros genes contribuyen a la diversidad del color de los ojos.\nInvestigaciones recientes han destacado el papel de los siguientes genes:\n\n1. **SLC24A4**: Involucrado en el transporte de calcio, este gen influye en la pigmentación. Las variantes están\n   asociadas con colores de ojos más claros, como azul y verde.\n\n2. **TYR (Tirosinasa)**: TYR es crucial para la síntesis de melanina. Las mutaciones en este gen pueden llevar al\n   albinismo, reduciendo significativamente la pigmentación en el iris y resultando en ojos muy claros o incluso rojos.\n\n3. **SLC45A2**: Asociado con pigmentación más clara, este gen es más común en poblaciones europeas y contribuye tanto al\n   color de los ojos como al de la piel.\n\n4. **IRF4 (Factor Regulador de Interferones 4)**: Este gen regula la producción de melanina y está vinculado a colores\n   de ojos más claros. También influye en rasgos como el encanecimiento del cabello y la aparición de pecas.\n\n5. **TYRP1 (Proteína Relacionada con la Tirosinasa 1)**: TYRP1 afecta el tipo de melanina producida, influyendo en el\n   espectro que va del marrón oscuro al ámbar.\n\n6. **ASIP (Proteína de Señalización de Agutí)**: ASIP regula las vías de la melanina, influyendo indirectamente en la\n   pigmentación ocular.\n\n7. **Variantes Reguladoras de HERC2**: Más allá de la mutación asociada a los ojos azules, otras variantes de HERC2\n   ajustan la expresión de OCA2, dando lugar a tonos intermedios como avellana y ámbar.\n\n### Estudios de Asociación del Genoma Completo (GWAS)\n\nLos estudios GWAS han identificado más de **50 loci genéticos** relacionados con el color de los ojos. Estas\ninvestigaciones utilizan grandes conjuntos de datos para mapear variaciones del ADN en diferentes poblaciones, revelando\ncómo pequeñas diferencias genéticas influyen en los niveles de melanina en el iris. Esta investigación ha consolidado el\nentendimiento del color de los ojos como un rasgo poligénico y ha proporcionado información valiosa sobre cómo estas\ncaracterísticas han evolucionado.\n\n---\n\n## Genética Comparativa entre Especies\n\nEl estudio de la pigmentación ocular no se limita a los humanos. Muchos animales presentan colores de ojos diversos,\nregidos por mecanismos genéticos similares:\n\n- **Gatos**: Genes como TYR influyen en los ojos azul brillante de los gatos siameses, mientras que variaciones en ASIP\n  y TYRP1 contribuyen a tonos verdes o ámbar.\n- **Aves**: La genética del color de ojos en las aves a menudo implica pigmentos carotenoides, que están ausentes en los\n  humanos. Por ejemplo, los loros y halcones obtienen el color de sus ojos a partir de componentes de su dieta.\n- **Perros**: El color de ojos en los perros está influenciado por genes como MITF, que también afectan la pigmentación\n  del pelaje.\n\nLos estudios comparativos destacan la adaptabilidad evolutiva de los genes relacionados con la pigmentación en distintas\nespecies.\n\n---\n\n## Avances en la Predicción del Color de los Ojos\n\nCon el desarrollo de tecnologías genéticas avanzadas, la predicción del color de los ojos a partir del ADN se ha vuelto\nextremadamente precisa. Herramientas como **IrisPlex** analizan marcadores genéticos clave para estimar el color de los\nojos con una precisión superior al 90 %. Estas predicciones son invaluables en:\n\n- **Ciencia Forense**: Reconstrucción de perfiles físicos de individuos no identificados.\n- **Pruebas de Ancestría**: Proporcionar información sobre el patrimonio genético y los patrones de migración.\n\n---\n\n## Línea de Tiempo de los Descubrimientos en la Genética del Color de los Ojos\n\n- **Principios del siglo XX**: Se cree inicialmente que el color de los ojos sigue un patrón de herencia mendeliana\n  simple (el marrón domina sobre el azul).\n- **Década de 1990**: El gen **OCA2** es identificado como un determinante principal del color de los ojos.\n- **Década de 2000**: Los estudios GWAS revelan la naturaleza poligénica del color de los ojos, identificando genes\n  adicionales como **SLC24A4** y **TYR**.\n- **Década de 2010**: Los estudios refinan la comprensión de cómo los elementos reguladores, como **HERC2**, influyen en\n  la actividad de **OCA2**.\n- **Década de 2020**: Los avances en la secuenciación genética permiten la predicción precisa del color de los ojos a\n  partir del ADN, ayudando a campos como la ciencia forense y la investigación de la ascendencia.\n\n---\n\n## La Complejidad de la Herencia del Color de los Ojos\n\nEl color de los ojos está influenciado por la interacción de múltiples genes, cada uno contribuyendo al espectro de\ntonos observados globalmente. Factores clave incluyen:\n\n- **Niveles de melanina**: Concentraciones más altas de melanina resultan en colores de ojos más oscuros, como el\n  marrón, mientras que niveles más bajos producen tonos más claros como el azul o el verde.\n- **Tipos de pigmento**: La eumelanina (pigmento marrón/negro) y la feomelanina (pigmento rojo/amarillo) se combinan en\n  proporciones variables para crear colores intermedios como el avellana y el ámbar.\n- **Interacciones genéticas**: La naturaleza poligénica del color de los ojos significa que pequeñas variaciones en\n  múltiples genes pueden tener efectos acumulativos, creando una amplia gama de posibilidades.\n\n---\n\n## Conclusión: El Rompecabezas Genético del Color de los Ojos\n\nEl estudio de la genética del color de los ojos ha recorrido un largo camino desde principios del siglo XX,\nevolucionando de un modelo mendeliano simplista a una comprensión matizada de un rasgo poligénico influido por docenas\nde genes. Desde los roles fundamentales de **OCA2** y **HERC2** hasta las contribuciones de genes secundarios y\nelementos reguladores, la diversidad del color de los ojos refleja la compleja interacción de la genética.\n\nEste campo sigue siendo un área rica en investigación, con nuevos descubrimientos que arrojan luz sobre cómo nuestra\nhuella genética da forma a una de nuestras características más definitorias. Con los avances en la ciencia genética, la\nhistoria del color de los ojos, y su papel en la adaptación y diversidad humana, promete ser aún más fascinante.\n"
+    },
+    "article2": {
+      "meta": {
+        "metaTitle": "La fascinante evolución de los ojos azules: Un misterio genético reciente",
+        "metaDescription": "Descubre la cautivadora historia de los ojos azules, sus orígenes y sus vínculos genéticos con los ojos verdes. Explora el viaje evolutivo y la ciencia detrás de este rasgo único.",
+        "image": "/template/articles/evolution-of-blue-eyes/origins-of-blue-eyes.png",
+        "altImage": "Evolución del color de los ojos azules"
+      },
+      "title": "La fascinante evolución de los ojos azules: Un misterio genético reciente",
+      "intro": "Se cree que los ojos azules se originaron hace entre 6.000 y 10.000 años. Los científicos han rastreado los primeros casos conocidos hasta una mutación genética en un único ancestro común. Este ancestro probablemente portaba una variación del gen HERC2, que suprime la producción de melanina en el iris, dando lugar al distintivo color azul de los ojos que vemos hoy en día.",
+      "texte": "El color de ojos es uno de los rasgos humanos más llamativos visualmente, que varía desde el marrón oscuro hasta el azul\ny el verde vibrantes. La diversidad en el color de los ojos está influenciada principalmente por la cantidad y\ndistribución de melanina en el iris. Mientras que los ojos marrones son el color más común y antiguo, los ojos azules\ndestacan como una característica evolutiva relativamente reciente.\n\nLos ojos azules son únicos porque carecen de cantidades significativas de melanina, lo que permite que la luz se\ndisperse dentro del iris y cree la apariencia azul característica. Lo que los hace aún más intrigantes es su aparición\nrelativamente reciente en la historia humana, que se remonta a entre 6.000 y 10.000 años atrás. Esto convierte a los\nojos azules en un caso fascinante de cambio genético rápido en comparación con otros rasgos físicos.\n\nEn este artículo, exploraremos los orígenes de los ojos azules, examinando cómo una única mutación genética\nprobablemente dio origen a esta característica y cómo se propagó a través de las poblaciones con el tiempo. También\nanalizaremos la conexión entre los ojos azules y verdes, descubriendo sus similitudes genéticas y vías evolutivas.\nComprender la historia de los ojos azules nos proporciona una visión de la migración humana, la adaptación y la\nselección natural.\n\n## La genética detrás del color de ojos (breve resumen)\n\nEl color de los ojos está determinado por la cantidad y el tipo de melanina presente en el iris, influenciado\nprincipalmente por variaciones genéticas. La melanina, un pigmento presente en la piel, el cabello y los ojos, existe en\ndos formas: eumelanina (de color marrón o negro) y feomelanina (de color rojo o amarillo). La concentración y\ndistribución de estos pigmentos afectan el color percibido de los ojos. Los ojos marrones tienen una alta concentración\nde eumelanina, mientras que los ojos azules resultan de una falta significativa de melanina, lo que provoca la\ndispersión de la luz dentro del iris.\n\n### Variaciones genéticas que influyen en la pigmentación ocular\n\nVarios genes están involucrados en la determinación del color de ojos, siendo los más importantes los genes OCA2 y\nHERC2. OCA2 (Albinismo Oculocutáneo Tipo II) proporciona instrucciones para la producción de una proteína que ayuda a\nregular la producción de melanina en el iris. Las mutaciones en este gen pueden generar variaciones en los niveles de\nmelanina, afectando el color de los ojos. El gen HERC2 actúa como un interruptor regulador de OCA2, influyendo en la\ncantidad de melanina que se produce. Una mutación específica en el gen HERC2, ubicado cerca de OCA2, está fuertemente\nasociada con el color azul de ojos.\n\nOtros genes, como SLC24A4 y TYR, también contribuyen a la pigmentación ocular al influir en la síntesis y transporte de\nmelanina dentro de las células del iris.\n\n### Herencia del color de ojos\n\nEl color de ojos es un rasgo poligénico, lo que significa que está influenciado por múltiples genes en lugar de un solo\ngen. En el pasado, se creía que el color de ojos seguía un patrón de herencia simple de dominante-recesivo, pero la\ngenética moderna ha revelado que es mucho más complejo. Los individuos heredan una combinación de alelos de ambos\npadres, que interactúan para producir una variedad de colores de ojos posibles. Por ejemplo, una persona con un alelo\npara ojos azules y otro para ojos marrones probablemente tendrá ojos marrones debido a la dominancia de los genes\nproductores de melanina, pero aún así puede transmitir el rasgo de ojos azules a su descendencia.\n\nPara obtener información genética más detallada, puedes consultar nuestro artículo anterior sobre la herencia del color\nde ojos.\n\n## El origen de los ojos azules\n\nSe cree que los ojos azules se originaron hace entre 6.000 y 10.000 años. Los científicos han rastreado los primeros\ncasos conocidos hasta una mutación genética en un ancestro común. Es probable que este ancestro llevara una variación en\nel gen HERC2, que suprime la producción de melanina en el iris, dando como resultado el distintivo color azul de los\nojos que vemos hoy.\n\nLos estudios basados en el análisis de ADN antiguo confirman que la mutación se extendió rápidamente por Europa, con\npruebas que apuntan a las poblaciones de la región del Mar Negro como el punto de origen más probable. Se sabe que los\nprimeros cazadores-recolectores europeos y las comunidades agrícolas posteriores portaban este rasgo genético, que se\ndistribuyó gradualmente en diferentes regiones a través de la migración y el mestizaje.\n\nLas pruebas genéticas extraídas de restos arqueológicos, como los encontrados en yacimientos mesolíticos de España y\nEscandinavia, han demostrado que los individuos de ojos azules coexistían con poblaciones de ojos más oscuros. La\npropagación de los ojos azules coincidió con la expansión neolítica, cuando los patrones de migración y la agricultura\ncontribuyeron a la amplia dispersión de la mutación en Europa y partes de Asia Central.\n\nLa persistencia de los ojos azules en ciertas poblaciones podría haber sido influenciada por factores como la selección\nnatural, las preferencias sociales y las condiciones climáticas que favorecían la visibilidad de los colores de ojos más\nclaros en latitudes septentrionales con menor exposición a la luz solar.\n\n## Cómo se heredó la mutación de los ojos azules\n\nLa mutación responsable de los ojos azules probablemente ocurrió inicialmente en un solo alelo. Esto significa que el\nancestro original que portaba la mutación puede no haber tenido ojos azules, sino que simplemente era portador del\nrasgo. Dado que los ojos azules son un rasgo recesivo, se requieren dos copias del alelo de ojos azules para que se\nmanifieste.\n\nSi el ancestro original tenía solo un alelo mutado, el color de sus ojos habría seguido siendo marrón, pero aún podría\nhaber transmitido la mutación a su descendencia. A lo largo de generaciones, los individuos que heredaron el alelo de\nojos azules de ambos padres comenzaron a presentar ojos azules. Este proceso requirió la reproducción entre\ndescendientes portadores del alelo, lo que eventualmente llevó a una frecuencia notable de individuos con ojos azules.\n\nLos científicos creen que la propagación del rasgo de los ojos azules fue facilitada por la deriva genética, los efectos\nfundadores y las preferencias sociales, lo que permitió que este rasgo se volviera más prevalente en ciertas regiones.\n\n## Hipótesis sobre la aparición de la mutación de los ojos azules\n\n### Efecto fundador\n\nEs posible que una pequeña población que portaba la mutación de ojos azules haya contribuido significativamente a su\npropagación. Si la mutación surgió en un grupo geográficamente aislado, podría haberse vuelto más común a lo largo de\ngeneraciones a través de la reproducción interna y los cuellos de botella poblacionales, lo que llevó a una mayor\nprevalencia de ojos azules en ciertas regiones.\n\n### Selección sexual\n\nAlgunos investigadores sugieren que los ojos azules pudieron haber sido percibidos como un rasgo atractivo o deseable,\nlo que llevó a un mayor éxito reproductivo para las personas con ojos azules. Esta preferencia pudo haber desempeñado un\npapel importante en la proliferación del rasgo, ya que las personas con ojos azules tenían más probabilidades de\nencontrar pareja y transmitir sus genes a la siguiente generación.\n\n### Ventaja adaptativa o evolución neutra\n\nSe ha sugerido que los ojos azules podrían haber proporcionado una ventaja en entornos con niveles de luz más bajos,\ncomo en el norte de Europa. Los colores de ojos más claros podrían haber mejorado la visión nocturna o la sensibilidad a\nla luz. Alternativamente, el rasgo pudo haber persistido a través de la evolución neutra, sin ofrecer una ventaja\nadaptativa significativa.\n\n### Factores nutricionales y ambientales\n\nTambién se ha explorado el vínculo entre los niveles de melanina y la síntesis de vitamina D. En regiones con menos luz\nsolar, las personas con niveles más bajos de melanina podrían haber tenido una mejor capacidad para sintetizar la\nvitamina D, lo que habría contribuido a la supervivencia y la propagación del rasgo de los ojos azules.\n\n## Conexión entre los ojos azules y verdes\n\nLos ojos azules y verdes comparten similitudes genéticas, ya que ambos resultan de variaciones en la cantidad y el tipo\nde melanina presente en el iris. La principal diferencia radica en la presencia ligeramente mayor de melanina en los\nojos verdes en comparación con los ojos azules. Este mayor contenido de melanina da lugar a una apariencia verde en\nlugar del efecto de dispersión de la luz característico de los ojos azules.\n\nLa base genética de los ojos verdes implica los mismos genes clave, en particular OCA2 y HERC2, pero con diferentes\nexpresiones en la producción de melanina. Algunos investigadores sugieren que los ojos verdes pueden haber evolucionado\na partir de los ojos azules a través de una mayor diversificación genética e influencias ambientales.\n\nDesde una perspectiva evolutiva, los ojos verdes probablemente surgieron cuando las poblaciones portadoras del alelo de\nlos ojos azules se mezclaron con individuos con genes de mayor producción de melanina, lo que dio lugar a colores de\nojos intermedios como el verde y el avellana. Hoy en día, los ojos verdes se encuentran más comúnmente en regiones como\nel norte y el centro de Europa, donde ha habido una mezcla genética significativa.\n\nLos estudios indican que, al igual que los ojos azules, los ojos verdes pueden haber estado sujetos a la selección\nsexual y a preferencias culturales, lo que ha contribuido a su persistencia en ciertas poblaciones, a pesar de ser menos\ncomunes a nivel mundial.\n\n## Distribución geográfica de los ojos azules y verdes\n\nLos ojos azules y verdes se encuentran principalmente en poblaciones de ascendencia europea, con la mayor prevalencia en\nel norte y el este de Europa. Países como Estonia, Finlandia y Suecia informan algunas de las tasas más altas de ojos\nazules, con más del 80% de la población con esta coloración. Los ojos verdes, aunque más raros, son más comunes en\nIrlanda, Escocia e Islandia, donde representan una parte significativa de la población.\n\nEn el centro y sur de Europa, la frecuencia de los ojos azules y verdes disminuye, mientras que los ojos marrones se\nvuelven más dominantes debido a los niveles más altos de producción de melanina asociados con climas más cálidos y una\nmayor exposición al sol. Fuera de Europa, los ojos azules y verdes son considerablemente menos comunes, pero aún se\npueden encontrar en poblaciones de ascendencia europea en América del Norte y Australia.\n\n### El declive de los ojos azules y verdes\n\nCon el aumento de la globalización y la mezcla genética, la prevalencia de los ojos azules y verdes ha ido disminuyendo\ngradualmente en muchas regiones. A medida que las poblaciones se vuelven más diversas y los matrimonios entre diferentes\ngrupos étnicos son más frecuentes, la composición genética que favorece los colores de ojos más claros se vuelve menos\ncomún. Esto ha llevado a una disminución gradual en la proporción de personas con ojos azules y verdes en áreas donde\nanteriormente eran más frecuentes.\n\nAdemás, los cambios en las preferencias culturales y la movilidad social han contribuido aún más a la mezcla genética,\nreduciendo la concentración de estos colores de ojos en regiones específicas. A pesar de este declive, los ojos azules y\nverdes siguen siendo características icónicas en muchas poblaciones europeas y continúan siendo objeto de fascinación e\ninvestigación científica.\n\n## Los ojos azules y la evolución en la actualidad\n\n### Diversidad genética y contexto evolutivo\n\nLos ojos azules y verdes representan un aspecto fascinante de la diversidad genética humana. Ofrecen información sobre\ncómo ciertos rasgos genéticos pueden persistir y evolucionar en las poblaciones a lo largo del tiempo. Aunque los ojos\nazules y verdes son menos comunes que los marrones, su presencia en el acervo genético mundial contribuye a la amplia\nvariedad de variaciones fenotípicas humanas. Estos colores de ojos son el resultado de interacciones genéticas complejas\nque siguen intrigando a los investigadores que estudian la evolución y adaptación humanas.\n\n### Tendencias futuras: ¿Seguirán existiendo los ojos azules y verdes?\n\nSe especula que la prevalencia de los ojos azules y verdes podría seguir disminuyendo debido a la creciente mezcla\ngenética. Sin embargo, los rasgos recesivos, como los ojos azules, pueden permanecer ocultos en el acervo genético y\nreaparecer en generaciones futuras si ambos padres portan los alelos necesarios. Además, las preferencias culturales y\nlas tendencias estéticas podrían influir en la popularidad de los ojos azules y verdes, lo que podría desempeñar un\npapel en su persistencia.\n\nPor otro lado, las presiones selectivas, como la adaptación natural a diferentes climas, pueden haber perdido su\nrelevancia en la distribución del color de los ojos debido a los estilos de vida modernos y la movilidad global. Esto\nsignifica que los ojos azules y verdes podrían persistir como parte de la diversidad genética natural en lugar de como\nrasgos adaptativos.\n\n### Avances en la investigación genética\n\nLos avances recientes en la investigación genética están arrojando nueva luz sobre la historia evolutiva del color de\nojos. Los estudios de asociación del genoma completo (GWAS) han identificado múltiples loci genéticos asociados con la\npigmentación del ojo, proporcionando una comprensión más profunda de los mecanismos genéticos detrás de los ojos azules\ny verdes. Estos estudios también han contribuido a la ciencia forense, permitiendo predecir el color de los ojos a\npartir de datos genéticos con una precisión cada vez mayor.\n\nAdemás, los avances en la biología evolutiva continúan explorando cómo la deriva genética, la selección y los patrones\nde migración han influido en la distribución de los colores de ojos a lo largo de milenios. La investigación en curso\npuede proporcionar más información sobre cómo ha evolucionado la diversidad del color de los ojos y su papel en la\nadaptación humana.\n\n## Conclusión\n\nEn resumen, los ojos azules y verdes son rasgos genéticos únicos que han surgido relativamente recientemente en la\nhistoria humana. Sus orígenes, distribución y posibles cambios futuros proporcionan información valiosa sobre la\nevolución humana y la diversidad genética. A pesar de su declive gradual debido a la globalización y la mezcla genética,\nlos ojos azules y verdes siguen siendo un tema intrigante de estudio científico.\n\nComprender los mecanismos genéticos subyacentes al color de los ojos nos permite apreciar la complejidad y belleza de la\ndiversidad humana. La investigación en curso continúa revelando nuevos aspectos sobre cómo han evolucionado estos rasgos\ny su significado en el contexto más amplio de la genética humana.\n\n## Referencias\n\n- Sturm, R. A., & Larsson, M. (2009). *Genetics of human iris color and patterns.* Pigment Cell & Melanoma Research, 22(\n  5), 544-562.\n- Eiberg, H. (2008). *Blue eye color in humans may be caused by a perfectly associated founder mutation in a regulatory\n  element located within the HERC2 gene inhibiting OCA2 expression.* Human Genetics, 123(2), 177-187.\n- Kayser, M., & de Knijff, P. (2011). *Improving human forensics through advances in genetics, genomics and molecular\n  biology.* Nature Reviews Genetics, 12(3), 179-192.\n"
+    }
+  }
+}
